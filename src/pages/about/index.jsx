@@ -228,7 +228,7 @@ export default function About() {
 
       {/* Top Image */}
       <div className="text-left">
-        <img src="/assets/test.jpg" alt="about us" className="w-full h-auto" />
+        <img src="/assets/tw_alumni_banners_2550 x 4602.jpg" alt="about us" className="w-full h-auto" />
       </div>
 
       {/* Intro + Video */}
