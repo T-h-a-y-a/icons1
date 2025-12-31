@@ -1,0 +1,100 @@
+{
+
+  "DataManagementServices": [
+   
+    {
+      "id": "01",
+      "image": "/assets/data-entry-services.jpg",
+      "heading": "Data entry services",
+      "alt": "Data Entry services to improve business efficiency",
+      "link": "/services/data-management-services/data-entry-services"
+    },
+    {
+      "id": "02",
+      "image": "/assets/data-conversion-services.jpg",
+      "heading": "Data Conversion Services",
+      "alt": "Data Conversion Services services to improve business efficiency",
+      "link": "/services/data-management-services/data-conversion-services"
+    },
+    {
+      "id": "03",
+      "image": "/assets/ebook-conversion-services.jpg",
+      "heading": "E-book and e-Pub Creation Services",
+      "alt": "E-book and ePub creation services for digital publishing and distribution.",
+      "link": "/services/data-management-services/ebook-conversion-services"
+    },
+     {
+      "id": "04",
+      "image": "/assets/data-cleansing.jpg",
+      "heading": "Data Cleansing Service",
+      "alt": "Data Cleansing Services services to improve business efficiency",
+      "link": "/services/data-management-services/data-cleaning-services"
+    },
+     {
+      "id": "05",
+      "image": "/assets/ocr-services.jpg",
+      "heading": "OCR Services",
+      "alt": "Ocr Services solutions for global businesses",
+      "link": "/services/data-management-services/ocr-services"
+    },
+     {
+      "id": "06",
+      "image": "/assets/data-extraction.jpg",
+      "heading": "Data Extraction services",
+      "alt": "Data Extraction services to improve business efficiency",
+      "link": "/services/data-management-services/data-extraction"
+    },
+     {
+      "id": "07",
+      "image": "/assets/data-processing.jpg",
+      "heading": "Data processing Services",
+      "alt": "Data Processing services to improve business efficiency",
+      "link": "/services/data-management-services/data-processing"
+    },
+     {
+      "id": "08",
+      "image": "/assets/ecommerce-data-entry.jpg",
+      "heading": "E-Commerce data entry",
+      "alt": "E-commerce data entry services for product listings, catalog management, and updates.",
+      "link": "/services/data-management-services/ecommerce-data-entry"
+    }
+  ],
+
+  "DataManagementServices_card" :[
+    {
+      "id": "01",
+      "title": "Quick Turn Around Time",
+      "description": "We prioritize client needs, ensuring timely delivery without compromising quality, achieving an average turnaround time reduction."
+    },
+    {
+      "id": "02",
+      "title": "Dedicated 24/7 Service and Support",
+      "description": "Our team works around the clock, ensuring constant availability for clients across all time zones, providing continuous support."
+    },
+     {
+      "id": "03",
+      "title": "Quick but Smart Work Culture",
+      "description": "We combine machine and manpower in a flexible workflow, resulting in an accuracy rate in all processes."
+    },
+    {
+      "id": "04",
+      "title": "Data Security and Non-Disclosure Compliance ",
+      "description": "We protect your data with robust security measures and strict confidentiality protocols, ensuring the highest levels of safety."
+    },
+    {
+      "id": "05",
+      "title": "Free Sampling",
+      "description": "We offer free sampling to better understand your requirements, allowing us to provide accurate pricing and value-added services that meet your needs."
+    },
+    {
+      "id": "06",
+      "title": "Bridging the Technology Gap",
+      "description": "We embrace the latest technologies, adapting quickly to ensure the most efficient and effective solutions, backed by our 21 years of expertise in the field."
+    },
+    {
+      "id": "07",
+      "title": "Cost Reduction ",
+      "description": "By optimizing processes and leveraging technology, we help clients achieve cost reductions, delivering more value for your investment."
+    }
+  ]
+}

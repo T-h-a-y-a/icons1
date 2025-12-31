@@ -1,0 +1,41 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+ theme: {
+    extend: {
+      keyframes: {
+        move: {
+          '0%': {
+            opacity: '0',
+            transform: 'translateX(0px) rotate(0deg)',
+          },
+          '20%': {
+            opacity: '1',
+          },
+          '40%': {
+            transform: 'translateX(-40px) rotate(0deg)',
+          },
+          '50%': {
+            opacity: '1',
+            transform: 'translateX(-50px) rotate(22deg)',
+          },
+          '85%': {
+            opacity: '1',
+            transform: 'translateX(-85px) rotate(60deg)',
+          },
+          '100%': {
+            opacity: '0',
+            transform: 'translateX(-100px) rotate(65deg)',
+          },
+        },
+      },
+      animation: {
+        move: 'move 2.8s linear infinite',
+      },
+    },
+  },
+  plugins: [],
+};

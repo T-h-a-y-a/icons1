@@ -1,0 +1,849 @@
+
+{
+
+  "video_editing_service": [
+    {
+      "id": "01",
+      "image": "/assets/video-editing-service.jpg",
+      "heading": "Video Editing Service",
+      "alt":"Professional video editing services for films, ads, and social media.",
+      "link": "/service/video-editing-services/video-editing-service"
+    },
+    {
+      "id": "02",
+      "image": "/assets/vfx-composting-services.jpg",
+      "alt":"Visual effects and compositing services for cinematic projects.",
+      "heading": "VFX and Composting Services",
+      "link": "/service/video-editing-services/vfx-composting-services"
+    },
+    {
+      "id": "04",
+      "image": "/assets/video-cropping-services.jpg",
+      "heading": "Video Cropping Services",
+      "alt":"Video cropping services for custom aspect ratios and platforms.",
+      "link": "/services/video-editing-services/cropping-services"
+      
+    },
+    {
+      "id": "05",
+      "image": "/assets/video-clipping-services.jpg",
+      "heading": "Video Clipping Services",
+      "alt":"Video clipping services for highlights and short-format content.",
+      "link": "/services/video-editing-services/clipping-services"
+    },
+    {
+      "id": "06",
+      "image": "/assets/video-animations.jpg",
+      "alt":"Animation services for digital content and storytelling.",
+      "heading": "Animations",
+      "link": "/services/video-editing-services/animations"
+    },
+    {
+      "id": "07",
+      "image": "/assets/stop-motion-animation-services.jpg",
+      "heading": "Stop Motion Animations",
+      "alt":"Stop motion animation services for creative projects.",
+      "link": "/services/animation-services/stop-motion-animation-services"
+    }
+  ],
+
+  "video_editing_service_slides": [
+    {
+      "title": "Social Media Video Editing Services",
+      "description": "We provide tailored video editing services to help your brand capture attention on social media. Whether it's Instagram Reels, TikTok videos, or YouTube Shorts, we craft high-quality, engaging content that boosts audience interaction & drives conversions. Our creative approach ensures your videos stand out in a crowded digital landscape.",
+      "link": "/service/video-editing-service/social-media"
+    },
+    {
+      "title": "Wedding Video Editing Services",
+      "description": "We specialize in editing wedding videos to preserve every beautiful moment. Through skilled editing, we ensure each couple’s unique story is told through cinematic visuals, heartfelt music, and seamless transitions, making every frame a cherished memory that lasts a lifetime",
+      "link": "/service/video-editing-service/wedding"
+    },
+    {
+      "title": "Real Estate Video Editing Services",
+      "description": "We create high-impact, visually stunning real estate videos that help listings stand out. By using professional editing techniques, we enhance properties, create virtual tours, and ensure each video highlights the best features, helping sellers close deals faster and attract more potential buyers",
+      "link": "/service/video-editing-service/real-estate"
+    },
+    {
+      "title": "Corporate Video Editing Services",
+      "description": "Our corporate video editing services help businesses craft compelling promotional content. From brand storytelling to internal communications, we focus on delivering videos that represent your company’s values, expertise, and accomplishments, enhancing your brand's image and connecting with your target audience",
+      "link": "/service/video-editing-service/corporate"
+    },
+    {
+      "title": "Educational Video Editing Services",
+      "description": "Transform your educational content into visually engaging and informative videos. Whether it's for e-learning platforms or instructional tutorials, we optimize videos with smooth transitions, engaging graphics, and clear narration to improve the learning experience and facilitate knowledge retention",
+      "link": "/service/video-editing-service/educational"
+    },
+    {
+      "title": "Sports Highlight Video Editing Services",
+      "description": "Our sports video editing services bring action-packed highlights to life with dynamic effects, slow motion, and engaging soundtracks. Whether for personal portfolios, social media, or recruitment, we help athletes and teams showcase their best moments with polished, professional videos",
+      "link": "/service/video-editing-service/sports"
+    },
+    {
+      "title": "Travel Vlog Video Editing Services",
+      "description": "Turn your travel footage into a cinematic journey. We enhance travel vlogs by stitching together breathtaking scenes, adding background music, and using transitions to craft an unforgettable story, ensuring your audience is captivated and engaged with every moment of your adventure",
+      "link": "/service/video-editing-service/travel-vlog"
+    },
+    {
+      "title": "Podcast Video Editing Services",
+      "description": "We offer complete podcast video editing services, including audio and video enhancements. From cleaning up audio tracks to adding captions, animations, and intro/outro elements, we help podcasters elevate the overall experience, ensuring their content stands out in an increasingly competitive space",
+      "link": "/service/video-editing-service/podcast"
+    },
+    {
+      "title": "GoPro Video Editing Services",
+      "description": "We bring your action-packed GoPro footage to life with energetic edits and dynamic effects. Whether you're capturing extreme sports or adventurous travel, our editing style enhances the raw action, ensuring your videos are thrilling and visually engaging, leaving a lasting impact on viewers",
+      "link": "/service/video-editing-service/gopro"
+    },
+    {
+      "title": "E-Commerce Product Video Editing Services",
+      "description": "Boost your e-commerce sales with professionally edited product videos that showcase the features and benefits of your products. From unboxing to detailed demonstrations, we create videos that grab attention, engage customers, and improve conversion rates, enhancing your online store’s appeal",
+      "link": "/service/video-editing-service/ecommerce"
+    },
+    {
+      "title": "Video Re-Touching Services",
+      "description": "We breathe new life into existing videos by enhancing their quality. Our video re-touching services involve correcting color imbalances, reducing noise, and eliminating imperfections, ensuring your content looks fresh and visually appealing, regardless of when it was originally filmed",
+      "link": "/service/video-editing-service/video-retouching"
+    },
+    {
+      "title": "Branding Video Editing Services",
+      "description": "We craft powerful branding videos that communicate your company's vision, mission, and values. Through storytelling, visuals, and strategic messaging, we help you create a memorable impression that resonates with your target audience, reinforcing your brand identity across various platforms",
+      "link": "/service/video-editing-service/branding"
+    },
+    {
+      "title": "Real Estate Drone Video Editing Services",
+      "description": "Our drone video editing services offer an aerial perspective that enhances the appeal of your real estate listings. We create stunning bird's-eye views and cinematic fly-throughs to showcase properties in the best light, making them irresistible to potential buyers",
+      "link": "/service/video-editing-service/real-estate-drone"
+    }
+  ],
+
+  "social_media": [
+    {
+      "id": "01",
+      "image": "/assets/Instagram.png",
+      "title": "Instagram",
+      "alt":"Instagram video editing and optimization services.",
+      "description": "Transform your Instagram content with I Cons Technologies' video editing expertise! Whether it's reels, stories, or posts, we make your videos stand out with professional editing. Looking for the best video editor for IG reels? Look no further! Maximize engagement with visually stunning content crafted to match your brand. Let us elevate your Instagram presence with our creative video editing services."
+    },
+     {
+      "id": "02",
+      "image": "/assets/facebook.png",
+      "title": "Facebook",
+      "alt":"Facebook video editing and promotional content services.",
+      "description": "Unlock your brand’s potential on Facebook with top-tier video editing! I Cons Technologies offers professional video editing services that captivate and convert. From dynamic ads to engaging posts, we ensure your Facebook videos shine. Our team delivers the content your audience will love and share."
+    },
+     {
+      "id": "03",
+      "image": "/assets/youtube.png",
+      "title": "YouTube",
+      "alt":"YouTube video editing services for creators and businesses.",
+      "description": "Looking for YouTube video editing services? I Cons Technologies is your go-to YouTube video editing agency. We specialize in professional video editing services that enhance storytelling and viewer retention. Whether it's a tutorial, review, or vlog, our YouTube video production services ensure your content is polished and professional."
+    },
+     {
+      "id": "04",
+      "image": "/assets/TikTok.png",
+      "title": "TikTok",
+      "alt":"TikTok video editing for engaging short-form content.",
+      "description": "Create viral-worthy TikTok videos with I Cons Technologies! Our professional video editor team specializes in quick, catchy edits that grab attention and boost engagement. We tailor your content to TikTok’s unique style, ensuring your videos go viral. Let’s make your TikTok stand out from the crowd!"
+    },
+     {
+      "id": "05",
+      "image": "/assets/linkedin.png",
+      "title": "LinkedIn",
+      "alt":"LinkedIn video editing for corporate and professional branding.",
+      "description": "Professional video editing services for LinkedIn are essential for building your brand's credibility. I Cons Technologies provides expert editing for corporate videos, presentations, and product showcases. Our professional video editor team ensures your LinkedIn content looks sharp, polished, and business-ready. Let us help you make a lasting impression!"
+    }
+  ],
+
+  "video_editing_service_card": [
+    {
+      "id": "01",
+      "title": "Discovery & Consultation",
+      "description": "We begin by understanding your brand, goals, and video objectives. This helps us align our creative direction with your message and target audience."
+    },
+    {
+      "id": "02",
+      "title": "Footage Assessment & Planning",
+      "description": "Our team reviews all raw footage, identifies key moments, and maps out the editing plan. We ensure everything needed to tell your story is accounted for."
+    },
+     {
+      "id": "03",
+      "title": "Editing & Visual Enhancement",
+      "description": "We cut, arrange, and enhance footage using professional editing tools. This includes color correction, audio syncing, transitions, and effects that bring your video to life."
+    },
+    {
+      "id": "04",
+      "title": "Storytelling & Narrative Structuring",
+      "description": "We craft a compelling narrative that engages viewers from start to finish. Our editors focus on pacing, flow, and visual impact to ensure maximum engagement."
+    },
+    {
+      "id": "05",
+      "title": "Motion Graphics & Animation",
+      "description": "If needed, we integrate branded motion graphics, intros, titles, and animations to give your content a polished, professional finish."
+    },
+    {
+      "id": "06",
+      "title": "Audio Enhancement & Sound Design",
+      "description": "We enhance voice clarity, balance background music, and add sound effects where appropriate to create an immersive audio experience."
+    },
+     {
+      "id": "07",
+      "title": "Client Review & Revisions",
+      "description": "You receive a preview of the edited video for feedback. We collaborate on revisions to ensure the final output meets your expectations."
+    },
+     {
+      "id": "08",
+      "title": "Delivery & Ongoing Support",
+      "description": "Final videos are delivered in all required formats. We offer ongoing editing support for new versions, social cuts, or campaign updates as needed."
+    }
+  ],
+  "wedding": [
+    {
+      "id": "01",
+      "image": "/assets/wedding_highlight.png",
+      "title": "Wedding Highlight",
+      "alt":"Wedding highlight video editing with cinematic style.",
+      "description": "Make your big day unforgettable with a dynamic wedding highlight video! We expertly craft a short, emotional recap that showcases the best moments, allowing you to relive your wedding day in style."
+    },
+     {
+      "id": "02",
+      "image": "/assets/wedding_feature_documentary_edit.png",
+      "alt":"Wedding feature or documentary-style video editing services.",
+      "title": "Wedding Feature/Documentary Edit",
+      "description": "For couples who want a detailed and emotional representation of their wedding day, our wedding feature/documentary edit is the perfect choice. We weave together all the key moments in a beautiful, cinematic storytelling format."
+    },
+     {
+      "id": "03",
+      "image": "/assets/cinematic_wedding_video_editing.png",
+      "title": "Cinematic Wedding Video Editing",
+      "alt":"Cinematic wedding video editing for storytelling and emotion.",
+      "description": "Our cinematic wedding video editing service turns your raw footage into a stunning movie experience. Using advanced editing techniques, we enhance your video with beautiful transitions, color grading, and emotional music to ensure a polished, cinematic result."
+    },
+     {
+      "id": "04",
+      "image": "/assets/wedding_instagram.png",
+      "alt":"Instagram-optimized wedding video edits.",
+      "title": "Wedding Instagram",
+      "description": "Elevate your Instagram with a custom wedding video edit tailored to Instagram’s unique style. Our team specializes in creating eye-catching, professionally edited wedding videos for Instagram, perfect for sharing those precious moments with friends and family."
+    },
+     {
+      "id": "05",
+      "image": "/assets/ceremony_and_toast_edit.png",
+      "title": "Ceremony and Toast Edit",
+      "alt":"Wedding ceremony and toast video editing services.",
+      "description": "Our ceremony and toast edit focuses on the most important speeches and heartfelt moments, capturing the essence of your wedding day in a beautifully edited video. It’s perfect for sharing those personal, unforgettable speeches and toasts."
+    }
+  ],
+
+  "real_estate": [
+    {
+      "id": "01",
+      "image": "/assets/property_showcase_video.png",
+      "title": "Property Showcase Video",
+      "alt":"Property showcase video editing for real estate marketing.",
+      "description": "Bring your property to life with a captivating property showcase video. Our editing team crafts dynamic, visually appealing videos that highlight your property’s unique features, from spacious rooms to stunning outdoor spaces, creating an engaging story that resonates with potential buyers."
+    },
+     {
+      "id": "02",
+      "image": "/assets/virtual_tour_editing.png",
+      "title": "Virtual Tour Editing ",
+      "alt":"Virtual tour video editing for real estate listings.",
+      "description": "Offer an immersive experience with a professionally edited virtual tour. We provide smooth transitions, strategic camera movements, and clear visuals, allowing viewers to explore every corner of the property as if they were physically there. This service is ideal for remote buyers or properties that require a detailed walkthrough."
+    },
+     {
+      "id": "03",
+      "image": "/assets/cinematic_real_estate_video_editing.png",
+      "alt":"Cinematic video editing for real estate properties.",
+      "title": "Cinematic Real Estate Video Editing ",
+      "description": "Make your listing stand out with a cinematic real estate video. Using advanced editing techniques, we enhance your footage with stunning color grading, cinematic transitions, and a perfectly chosen soundtrack, creating a visual experience that showcases your property’s appeal in a way that will captivate viewers."
+    },
+     {
+      "id": "04",
+      "image": "/assets/drone_footage_editing.png",
+      "title": "Drone Footage Editing ",
+      "alt":"Drone video editing for aerial shots and perspectives.",
+      "description": "Elevate your property listings with breath-taking aerial views. Our team expertly edits drone footage to create sweeping, cinematic shots that capture the scale and beauty of the property, highlighting its surroundings and giving potential buyers a unique perspective."
+    },
+     {
+      "id": "05",
+      "image": "/assets/real_estate_instagram_video_editing.png",
+      "title": "Real Estate Instagram Video Editing ",
+      "alt":"Instagram-ready real estate video editing services.",
+      "description": "Enhance your real estate marketing on social media with custom Instagram video edits. We design engaging, short-form content tailored to Instagram’s style, perfect for grabbing attention and driving interest in your property, with optimized formats and eye-catching visuals."
+    },
+     {
+      "id": "06",
+      "image": "/assets/real_estate_commercials_&_ads.png",
+      "title": "Real Estate Commercials & Ads",
+      "alt":"Commercial and advertising video editing for real estate.",
+      "description": "Reach a larger audience with professional real estate commercial videos. Whether it’s for TV ads or online marketing, we create compelling commercial real estate video editing services that highlight your property’s best attributes, delivered with high-quality visuals, smooth editing, and attention-grabbing storytelling."
+    }
+  ],
+
+  "corporate": [
+    {
+      "id": "01",
+      "image": "/assets/company_profile_&_promotional_videos.png",
+      "title": "Company Profile & Promotional Videos",
+      "alt":"Corporate profile and promotional video editing services.",
+      "description": "Showcase your brand’s identity with a professionally edited company profile or promotional video. Our team will work with you to create a visually engaging video that highlights your company’s values, products, services, and unique selling points, helping you make a lasting impression on potential clients and partners. With outsourcing video editing, you get access to a talented team without the overhead costs of an in-house production team."
+    },
+     {
+      "id": "02",
+      "image": "/assets/corporate_training_videos.png",
+      "title": "Corporate Training Videos ",
+      "alt":"Training video editing for corporate learning and development.",
+      "description": "Streamline your training processes with well-edited, easy-to-understand corporate training videos. We focus on clarity and engagement, ensuring your message is effectively communicated while maintaining a high level of professionalism. Whether it’s on boarding new employees or educating your team, our training videos help improve productivity and knowledge retention. Video editing outsourcing can help you save time while still delivering top-quality training content."
+    },
+     {
+      "id": "03",
+      "image": "/assets/event_recap_&_highlights.png",
+      "title": "Event Recap & Highlights ",
+      "alt":"Event recap and highlight video editing services.",
+      "description": "Capture the energy and excitement of your corporate events with expertly edited event recap videos. Whether it’s a conference, seminar, product launch, or team-building event, we highlight key moments and produce an engaging video that serves as a great recap for attendees and a promotional tool for future events. Outsource video editing services to focus on your event while we create polished, engaging highlights."
+    },
+     {
+      "id": "04",
+      "image": "/assets/client_testimonial_videos.png",
+      "title": "Client Testimonial Videos  ",
+      "alt":"Testimonial video editing for clients and customers.",
+      "description": "Client testimonials are a powerful tool for building trust and credibility. Our team of video editors will craft impactful testimonial videos that showcase the positive feedback from your clients, highlighting your company’s reputation and expertise. Video editing outsourcing ensures you get high-quality edits without the extra time commitment on your end."
+    },
+     {
+      "id": "05",
+      "image": "/assets/corporate_commercials_&_ads.png",
+      "title": "Corporate Commercials & Ads",
+      "alt":"Video editing for corporate commercials and ad campaigns.",
+      "description": "Get noticed with professionally edited corporate commercials and advertisements. Whether for digital marketing or traditional media, our editing team ensures your ad stands out with high-quality visuals, compelling storytelling, and clear calls to action. Our video editing agency can help you create advertisements that deliver results, giving you a competitive edge in the market."
+    },
+     {
+      "id": "06",
+      "image": "/assets/explainer_&_product_demo_videos.png",
+      "title": "Explainer & Product Demo Videos ",
+      "alt":"Explainer video and product demo editing services.",
+      "description": "Turn complex concepts or products into easy-to-understand content with explainer or product demo videos. We craft engaging videos that simplify information, making it accessible and visually appealing for your target audience. Videographer editing expertise helps convey your message clearly and effectively."
+    },
+    {
+      "id": "07",
+      "image": "/assets/social_media_corporate_videos.png",
+      "title": "Social Media Corporate Videos",
+      "alt":"Corporate video editing for social media platforms.",
+      "description": "Maximize your reach with short-form, high-impact corporate videos designed specifically for social media platforms. Whether it’s for LinkedIn, Instagram, or Facebook, we create videos tailored to each platform’s requirements to help you connect with your audience and drive engagement. Video editing outsourcing ensures you receive engaging, shareable content optimized for social media."
+    }
+  ],
+
+  "educational": [
+    {
+      "id": "01",
+      "image": "/assets/online_course_&_e-learning_module_editing.png",
+      "title": "Online Course & E-learning Module Editing",
+      "alt":"E-learning and online course video editing services.",
+      "description": "Boost the quality of your online courses with expert video creation services. Our team of skilled professional video editors works with you to transform your educational material into clear, engaging videos. With outsourced video editing, you can access top-notch editing skills without the need for in-house staff, saving both time and money."
+    },
+     {
+      "id": "02",
+      "image": "/assets/instructional_&_how-to_video_editing.png",
+      "title": "Instructional & How-To Video Editing",
+      "alt":"Instructional and tutorial video editing services.",
+      "description": "Simplify complex topics with expertly edited how-to videos. Our videographer editing services ensure that each step of your instructional content is presented clearly and effectively. Outsource video editing services to let our team handle the post-production process while you focus on creating valuable learning content."
+    },
+     {
+      "id": "03",
+      "image": "/assets/educational_webinar_&_virtual_classroom_recaps.png",
+      "title": "Educational Webinar & Virtual Classroom Recaps",
+      "alt":"Webinar and virtual class video editing for education.",
+      "description": "Capture and showcase key moments from your educational webinars or virtual classrooms with professional recap videos. Whether you're conducting an online training or a virtual conference, we offer video editing outsourcing that delivers polished highlight reels and summaries to keep your audience engaged."
+    },
+     {
+      "id": "04",
+      "image": "/assets/student_testimonial_&_success_story_videos.png",
+      "title": "Student Testimonial & Success Story Videos",
+      "alt":"Student testimonial video editing for education institutions.",
+      "description": "Build credibility for your educational programs with impactful student testimonial videos. Our video editing agency will craft compelling stories that highlight the success of your students, showing prospective learners the value of your offerings."
+    },
+     {
+      "id": "05",
+      "image": "/assets/promotional_&_marketing_videos_for_education.png",
+      "title": "Promotional & Marketing Videos for Education",
+      "alt":"Education-focused promotional and marketing video editing.",
+      "description": "Promote your educational programs and courses with captivating promotional videos. Whether you're marketing an e-learning platform or workshop, our video editing services will help you create compelling content that resonates with your target audience and encourages enrolments."
+    },
+     {
+      "id": "06",
+      "image": "/assets/social_media_educational_videos.png",
+      "title": "Social Media Educational Videos",
+      "alt":"Social media educational video editing services.",
+      "description": "Maximize engagement across platforms like LinkedIn, Instagram, or YouTube with educational content tailored for social media. Whether it’s reels videographer style videos or short educational snippets, our outsourcing video editing services optimize your content for maximum reach and impact."
+    }
+  ],
+
+  "sports": [
+    {
+      "id": "01",
+      "image": "/assets/game_highlight_videos.png",
+      "title": "Game Highlight Videos",
+      "alt":"Game highlight video editing for esports and players.",
+      "description": "Turn any game or match into a thrilling highlight reel with our video editing outsourcing services. We focus on editing the most exciting moments, from game-winning goals to jaw-dropping plays, ensuring your video is fast-paced, energetic, and packed with emotion. Outsource video editing to our expert team, and let us craft a stunning video that tells the story of the game in a way that leaves viewers wanting more."
+    },
+     {
+      "id": "02",
+      "image": "/assets/player_highlight_reels.png",
+      "title": "Player Highlight Reels",
+      "alt":"Player highlight reel editing for sports and esports.",
+      "description": "Create impressive player highlight videos that showcase an athlete's best moments, including skills, goals, assists, and game-changing plays. Whether it’s for college recruitment, team promotion, or personal branding, our videographer editing services make each player’s performance stand out with smooth transitions and compelling storytelling."
+    },
+     {
+      "id": "03",
+      "image": "/assets/season_recap_videos.png",
+      "title": "Season Recap Videos",
+      "alt":"Season recap video editing for sports and competitions.",
+      "description": "Capture the essence of an entire sports season with a professionally edited season recap video. Our team will condense an entire season’s worth of action into an exciting, fast-paced video that highlights the most memorable moments, key victories, and unforgettable performances. With video creation services, we deliver polished, high-quality content that highlights the true spirit of your team or sport."
+    },
+     {
+      "id": "04",
+      "image": "/assets/sports_promo_videos.png",
+      "title": "Sports Promo Videos",
+      "alt":"Sports promotional video editing services.",
+      "description": "Generate buzz around upcoming games or seasons with exciting promotional videos. Whether for marketing, social media, or fan engagement, our video editing services ensure your promo videos are engaging, fast-paced, and perfect for generating excitement. Video editor outsource to our experienced team and get promotional content that captures the energy of your sport."
+    },
+     {
+      "id": "05",
+      "image": "/assets/social_media_sports_clips.png",
+      "title": "Social Media Sports Clips",
+      "alt":"Sports video editing for social media highlights.",
+      "description": "Maximize your social media presence with short, engaging sports clips optimized for platforms like Instagram, TikTok, and YouTube. Whether you need quick highlight reels or game-changing moments, we’ll provide outsourced video editing services tailored to the specific requirements of each platform, ensuring your content stands out and goes viral."
+    },
+     {
+      "id": "06",
+      "image": "/assets/event_recap_videos.png",
+      "title": "Event Recap Videos",
+      "alt":"Event recap video editing for conferences, shows, and gatherings.",
+      "description": "Whether it’s a tournament, championship, or sports festival, our team can turn your event footage into a compelling event recap video. We’ll highlight the key moments, the energy of the crowd, and the top performances to create a video that captures the excitement and spirit of the event. With professional video editor skills, we bring all the action to life in a high-energy, visually stunning video."
+    }
+  ],
+
+  "travel_vlog" :  [
+    {
+      "id": "01",
+      "image": "/assets/vlog_highlight_reels.png",
+      "title": "Vlog Highlight Reels",
+      "alt":"Vlog highlight reel editing for creators and influencers.",
+      "description": "Capture the essence of your trip with a fast-paced, visually stunning vlog highlight reel. We focus on editing the most exciting moments from your travels, ensuring your video flows smoothly and creates an emotional connection with your audience. With video editing outsourcing, you can rely on our experts to craft a reel that perfectly represents the adventure and excitement of your travels."
+    },
+     {
+      "id": "02",
+      "image": "/assets/travel_documentary_style_editing.png",
+      "title": "Travel Documentary Style Editing",
+      "alt":"Travel documentary-style video editing services.",
+      "description": "For more immersive travel content, we specialize in travel documentary style editing. From capturing your journey's most intimate moments to narrating cultural experiences, our team enhances your footage to reflect the depth and richness of your travels. Let us help you create a professional and cinematic travel documentary that truly tells the story of your adventure."
+    },
+     {
+      "id": "03",
+      "image": "/assets/social_media_travel_clips.png",
+      "title": "Social Media Travel Clips",
+      "alt":"Travel video editing for social media platforms.",
+      "description": "Maximize your social media reach with short, shareable travel clips optimized for platforms like Instagram, TikTok, and YouTube. Our video editing services tailor each clip to fit the platform’s requirements, creating dynamic, attention-grabbing content that encourages engagement and shares your travel experience with a broader audience."
+    }
+  ],
+
+  "podcast" :  [
+    {
+      "id": "01",
+      "image": "/assets/podcast_intro_&_outro_editing.png",
+      "title": "Podcast Intro & Outro Editing",
+      "alt":"Podcast intro and outro video editing.",
+      "description": "Start and end your podcast with impact by creating engaging intro and outro sequences. Our team will edit your podcast openings and closings to perfectly match the tone of your show, ensuring each episode has a consistent and professional feel. Video editing outsourcing allows you to streamline your podcast production while maintaining high-quality standards."
+    },
+     {
+      "id": "02",
+      "image": "/assets/audio_and_visual_syncing.png",
+      "title": "Audio and Visual Syncing",
+      "alt":"Audio and visual syncing services for videos and podcasts.",
+      "description": "Ensure your podcast videos are perfectly synced, with clear audio and high-quality visuals. Our videographer editing services focus on aligning the sound and visuals, eliminating distractions such as background noise or poor lighting, so your audience can fully immerse themselves in the content. We handle all technical aspects of podcast video production to give you flawless content every time."
+    },
+     {
+      "id": "03",
+      "image": "/assets/interview_&_panel_discussion_editing.png",
+      "title": "Interview & Panel Discussion Editing",
+      "alt":"Interview and panel video editing services.",
+      "description": "For podcasts that feature interviews or panel discussions, we make sure the conversation flows smoothly. Our editing team cuts out awkward pauses, irrelevant segments, and unnecessary filler, leaving only the most engaging and relevant content. Outsourcing video editing services helps save time while ensuring your podcast is professionally edited and maintains a high standard."
+    },
+    {
+      "id": "04",
+      "image": "/assets/video_podcast_editing_for_youtube_&_social_media.png",
+      "title": "Video Podcast Editing for YouTube & Social Media",
+      "alt":"Podcast video editing optimized for YouTube and social channels.",
+      "description": "Expand your reach by editing your podcast for platforms like YouTube, Instagram, or Facebook. We create optimized, engaging video content from your audio podcast, ensuring it is visually captivating and shareable on social media. With outsource video editing, you get professionally crafted videos tailored to each platform’s specifications, helping you increase your online visibility."
+    },
+     {
+      "id": "05",
+      "image": "/assets/highlight_clips_&_snippets.png",
+      "title": "Highlight Clips & Snippets",
+      "alt":"Video highlight clip and snippet creation services.",
+      "description": "Create short, impactful highlight clips from your podcast episodes for social media promotion. We’ll edit engaging, bite-sized moments that capture the essence of your podcast and encourage listeners to tune in for the full episode. Our video editing services can help you produce content that resonates with your audience and drives engagement."
+    },
+     {
+      "id": "06",
+      "image": "/assets/captioning_&_subtitles_for_podcasts.png",
+      "title": "Captioning & Subtitles for Podcasts",
+      "alt":"Captioning and subtitle services for podcast videos.",
+      "description": "Improve accessibility and engagement by adding captions and subtitles to your podcast videos. We provide professional transcription services, ensuring that your videos are accessible to a wider audience, including those who prefer watching without sound or have hearing impairments."
+    }
+  ],
+
+  "gopro" :  [
+    {
+      "id": "01",
+      "image": "/assets/adventure_&_sports_video_editing.png",
+      "title": "Adventure & Sports Video Editing",
+      "alt":"Adventure and sports video editing with cinematic effects.",
+      "description": "Make your action-packed GoPro footage come to life with adventure and sports video editing. Whether you’re filming extreme sports, mountain biking, or underwater exploration, our team will enhance the visuals, stabilize shaky footage, and add effects to capture the thrill and excitement of each moment. With video editing outsourcing, you can rely on our expertise to create exciting, professional-looking videos that keep your audience engaged."
+    },
+     {
+      "id": "02",
+      "image": "/assets/travel_vlog_editing.png",
+      "title": "Travel Vlog Editing",
+      "alt":"Travel vlog editing for creators and influencers.",
+      "description": "Turn your GoPro travel footage into an engaging travel vlog with our video creation services. Whether you’re exploring a new city, hiking through nature, or enjoying unique cultural experiences, our editors will craft your footage into a captivating story that immerses your audience. Outsource video editing to our team and get high-quality edits that highlight the beauty of your travels while maintaining a personal touch."
+    },
+     {
+      "id": "03",
+      "image": "/assets/slow_motion_&_time-lapse_editing.png",
+      "title": "Slow Motion & Time-Lapse Editing",
+      "alt":"Slow-motion and time-lapse video editing services.",
+      "description": "Capture stunning slow-motion and time-lapse sequences from your GoPro footage. We specialize in enhancing these effects to highlight breath-taking moments, such as high-speed action shots or stunning landscapes. Our videographer editing services ensure the final video is smooth, cinematic, and visually engaging."
+    },
+    {
+      "id": "04",
+      "image": "/assets/music_&_sound_effects_integration.png",
+      "title": "Music & Sound Effects Integration",
+      "alt":"Music and sound effects integration for video content.",
+      "description": "A great GoPro video isn’t just about stunning visuals – it’s also about sound. We incorporate the perfect soundtrack and sound effects to complement your footage, helping to build atmosphere and energy in the video. Whether it’s a high-energy action sequence or a serene nature shot, our professional video editors will ensure the audio aligns perfectly with the visuals for a seamless experience."
+    },
+     {
+      "id": "05",
+      "image": "/assets/gopro_highlight_reels.png",
+      "title": "GoPro Highlight Reels",
+      "alt":"GoPro highlight reel editing services for action footage.",
+      "description": "Showcase the best moments from your GoPro footage with a highlight reel that captures the excitement and energy of your adventure. Our team will sift through your footage, selecting the most dynamic and thrilling moments, and create a fast-paced video that showcases the highlights of your journey. Outsourcing video editing services allows you to focus on capturing more content while we handle the post-production."
+    },
+     {
+      "id": "06",
+      "image": "/assets/social_media_gopro_clips.png",
+      "title": "Social Media GoPro Clips",
+      "alt":"GoPro video edits for social media sharing.",
+      "description": "Optimize your GoPro videos for social media with short, impactful clips tailored for platforms like Instagram, Facebook, and YouTube. Whether it’s action-packed moments or stunning landscapes, we’ll edit your videos for maximum engagement, ensuring they fit the format and style of each social media platform. Outsource video editing to create content that stands out and increases your reach on social media."
+    }
+  ],
+
+  "ecommerce" :  [
+    {
+      "id": "01",
+      "image": "/assets/product_demo_video_editing.png",
+      "title": "Product Demo Video Editing",
+      "alt":"Product demo video editing for marketing and sales.",
+      "description": "Transform your raw product footage into a clear, engaging, and informative product demo video. Our expert editors will enhance your video by cutting unnecessary content, improving pacing, and emphasizing the key features and benefits of your product. With our outsourced video editing services, we handle the heavy lifting while you focus on your products."
+    },
+     {
+      "id": "02",
+      "image": "/assets/unboxing_&_review_video_editing.png",
+      "title": "Unboxing & Review Video Editing",
+      "alt":"Unboxing and product review video editing services.",
+      "description": "Make your unboxing and review videos shine with professional editing. Our team will remove distractions, improve video and audio quality, and ensure the footage flows smoothly, highlighting your product’s best features and building excitement for potential customers. Video editing outsourcing gives you high-quality, polished results without the time commitment."
+    },
+     {
+      "id": "03",
+      "image": "/assets/lifestyle_product_video_editing.png",
+      "title": "Lifestyle Product Video Editing",
+      "alt":"Lifestyle product video editing for brand promotion.",
+      "description": "Show your product in action with expertly edited lifestyle product videos. We enhance footage to highlight how your product fits into real-life scenarios, adding visual effects, transitions, and improving overall video quality. With video editing outsourcing, you get polished content that resonates with your audience and strengthens your brand's identity."
+    },
+    {
+      "id": "04",
+      "image": "/assets/social_media_product_clip_editing.png",
+      "title": "Social Media Product Clip Editing",
+      "alt":"Product video clip editing optimized for social platforms.",
+      "description": "Maximize your reach with short, engaging product clips optimized for social media platforms. We edit your existing content to create attention-grabbing videos tailored to platforms like Instagram, Facebook, and TikTok. Outsource video editing to ensure your content fits each platform’s format and resonates with your audience, boosting engagement and visibility."
+    },
+     {
+      "id": "05",
+      "image": "/assets/product_ad_promotional_video_editing.png",
+      "title": "Product Ad & Promotional Video Editing",
+      "alt":"Product ad and promotional video editing services.",
+      "description": "Turn your product footage into high-converting ads and promotional videos. Our editing team specializes in creating polished and compelling ads that grab attention and encourage viewers to take action. Whether for social media or website use, we ensure your product videos are captivating and effective at driving conversions."
+    },
+     {
+      "id": "06",
+      "image": "/assets/360-degree_product_video_editing.png",
+      "title": "360-Degree Product Video Editing",
+      "alt":"360-degree product video editing for immersive views.",
+      "description": "Optimize your 360-degree product videos with expert editing. Our team ensures smooth transitions, clear visuals, and immersive experiences, allowing your customers to view your products from every angle. With outsourcing video editing, we enhance your 360-degree videos to deliver high-quality results that attract customers and improve the shopping experience."
+    }
+  ],
+
+  "re_touching" :  [
+    {
+      "id": "01",
+      "image": "/assets/color_grading_enhancement.png",
+      "title": "Color Grading & Enhancement",
+      "alt":"Professional color grading and video enhancement services.",
+      "description": "Bring your videos to life with color grading and enhancement. Our team adjusts the color balance, contrast, and saturation to give your footage a vibrant, cinematic look. We ensure the color tones align with the mood of the video, whether it's a warm, inviting vibe or a cooler, more dramatic feel. Video editing outsourcing allows you to get professional color grading without the time or cost of in-house editing."
+    },
+     {
+      "id": "02",
+      "image": "/assets/lighting_correction_exposure_fixing.png",
+      "title": "Lighting Correction & Exposure Fixing",
+      "alt":"Lighting correction and exposure adjustment for videos.",
+      "description": "Fix poorly lit or overexposed footage with our lighting correction services. We adjust the brightness, contrast, and shadows to create a well-lit, balanced look, even for footage shot in challenging conditions. Our videographer editing team ensures that your video’s lighting is optimized to look professional, no matter the environment."
+    },
+     {
+      "id": "03",
+      "image": "/assets/noise_reduction_audio_enhancement.png",
+      "title": "Noise Reduction & Audio Enhancement",
+      "alt":"Noise reduction and audio enhancement for video soundtracks.",
+      "description": "Improve the audio quality of your video with noise reduction and audio enhancement. Our editing team removes unwanted background noise, such as hums, hisses, or wind sounds, and enhances the clarity of voices and sounds. We ensure your video not only looks great but sounds crystal clear, providing a polished audio-visual experience."
+    },
+    {
+      "id": "04",
+      "image": "/assets/object_removal_background_editing.png",
+      "title": "Object Removal & Background Editing",
+      "alt":"Object removal and background editing for clean visuals.",
+      "description": "Eliminate distractions or unwanted elements from your video with object removal and background editing. Whether it’s a stray object or a cluttered background, we can clean up your footage to keep the focus on what matters. Outsourcing video editing gives you the flexibility to refine your videos without spending extra time on tedious details."
+    },
+     {
+      "id": "05",
+      "image": "/assets/skin_smoothing_beauty_retouching.png",
+      "title": "Skin Smoothing & Beauty Retouching",
+      "alt":"Skin smoothing and beauty retouching for video production.",
+      "description": "Achieve flawless visuals with skin smoothing and beauty retouching for videos. Whether it’s for a commercial, social media post, or personal project, we can smooth skin tones, remove blemishes, and enhance the overall look of people in your videos. Our professional video editors ensure the video maintains a natural, polished aesthetic."
+    },
+     {
+      "id": "06",
+      "image": "/assets/visual_effects_creative_enhancements.png",
+      "title": "Visual Effects & Creative Enhancements",
+      "alt":"Visual effects and creative enhancements for videos.",
+      "description": "Add a creative touch to your videos with visual effects and enhancements. Whether you need subtle effects to enhance your story or bold, attention-grabbing edits, our team can incorporate custom effects that align with your vision. Video editing services help bring your ideas to life with professional-grade visual treatments."
+    },
+    {
+      "id": "07",
+      "image": "/assets/stabilization_motion_correction.png",
+      "title": "Stabilization & Motion Correction",
+      "alt":"Video stabilization and motion correction services.",
+      "description": "Stabilize shaky footage and fix unwanted camera movements with motion correction. Whether it’s handheld footage or footage from a moving vehicle, we can smooth out the motion and create stable, steady shots that look professional. Video editing outsourcing makes this process efficient and effective, providing smooth, polished results."
+    }
+  ],
+
+  "branding" :  [
+    {
+      "id": "01",
+      "image": "/assets/company_profile_brand_story_videos.png",
+      "title": "Company Profile & Brand Story Videos",
+      "alt":"Brand story and company profile video editing.",
+      "description": "Showcase your brand’s identity and values with a professionally edited company profile video or brand story video. We’ll help you highlight your mission, vision, products, services, and unique selling points, creating an engaging narrative that connects with your audience. Outsourcing video editing services ensures your branding videos are polished and effective, without the need for an in-house team."
+    },
+     {
+      "id": "02",
+      "image": "/assets/corporate_identity_promotional_videos.png",
+      "title": "Corporate Identity & Promotional Videos",
+      "alt":"Corporate identity and promotional video editing services.",
+      "description": "Promote your company’s products, services, or vision with corporate identity videos. We focus on crafting visuals that align with your brand’s voice and image, ensuring consistency across all marketing materials. Our team will edit your footage to highlight your brand’s strengths and set you apart in the market, allowing you to build a strong, recognizable presence."
+    },
+     {
+      "id": "03",
+      "image": "/assets/brand_commercials_ad_campaign_videos.png",
+      "title": "Brand Commercials & Ad Campaign Videos",
+      "alt":"Video editing for brand commercials and advertising campaigns.",
+      "description": "Create impactful brand commercials or ad campaign videos that capture attention and drive conversions. Our video editing agency specializes in crafting engaging, story-driven videos that highlight the essence of your brand and deliver compelling calls to action. Whether for TV, digital ads, or social media, we ensure your brand’s message is clear, professional, and compelling."
+    },
+    {
+      "id": "04",
+      "image": "/assets/social_media_branding_videos.png",
+      "title": "Social Media Branding Videos",
+      "alt":"Branding video editing optimized for social media.",
+      "description": "Maximize your brand’s reach with social media branding videos designed for platforms like Instagram, Facebook, LinkedIn, and YouTube. Our expert editors tailor each video to the specific requirements of each platform, ensuring your content is optimized for maximum engagement and impact. With outsourced video editing, you get professional-quality content that drives engagement across your social channels."
+    },
+     {
+      "id": "05",
+      "image": "/assets/brand_awareness_engagement_videos.png",
+      "title": "Brand Awareness & Engagement Videos",
+      "alt":"Videos designed to build brand awareness and engagement.",
+      "description": "Increase your brand’s visibility with brand awareness videos that engage and inform your audience. We create visually captivating content that communicates your brand’s message while keeping viewers entertained. Whether it’s through storytelling, customer testimonials, or product highlights, our video editing services ensure your brand stands out."
+    },
+     {
+      "id": "06",
+      "image": "/assets/logo_animation_branding_effects.png",
+      "title": "Logo Animation & Branding Effects",
+      "alt":"Logo animation and branding effect services.",
+      "description": "Add a professional touch to your branding videos with logo animation and custom branding effects. Our team can animate your logo, add dynamic visual elements, and create stylish transitions that enhance your video’s impact. This creative touch reinforces your brand identity and leaves a lasting impression on your audience."
+    }
+  ],
+
+  "real_estate_drone" :  [
+    {
+      "id": "01",
+      "image": "/assets/aerial_property_tours.png",
+      "title": "Aerial Property Tours",
+      "alt":"Aerial property tour video editing for real estate.",
+      "description": "Enhance your property listings with aerial property tour videos that highlight key features from an elevated perspective. Our editors focus on smooth transitions, optimal color correction, and adding dynamic visual elements to make sure the property’s exterior, landscape, and surrounding area are presented at their best. By outsourcing video editing, you’ll receive a polished, professional video ready to captivate potential buyers."
+    },
+     {
+      "id": "02",
+      "image": "/assets/luxury_high-end_video.png",
+      "title": "Luxury & High-End Property Videos",
+      "alt":"Luxury property video editing with cinematic effects.",
+      "description": "For luxury properties, the stakes are high, and you need a video editing agency that can deliver flawless, cinematic drone footage. Our team specializes in luxury real estate video editing, refining the visuals to create a captivating, elegant presentation that highlights the beauty, design, and grandeur of high-end properties. We focus on enhancing colors, adding subtle effects, and ensuring that the footage flows smoothly for a premium look."
+    },
+     {
+      "id": "03",
+      "image": "/assets/commercial_property_drone_video_editing.png",
+      "title": "Commercial Property Drone Video Editing",
+      "alt":"Drone video editing for commercial property promotions.",
+      "description": "For commercial real estate, we edit your drone footage to showcase the scale and functionality of the space. Our video editing services enhance the footage with clear visual markers, smooth transitions, and sharp color corrections to ensure the commercial property looks its best. Outsourcing video editing for your commercial properties gives you high-quality, engaging videos that highlight key features and attract potential tenants or buyers."
+    },
+    {
+      "id": "04",
+      "image": "/assets/virtual_tours_interactive_drone_videos.png",
+      "title": "Virtual Tours & Interactive Drone Videos",
+      "alt":"Virtual tour and interactive drone video editing services.",
+      "description": "Combine the power of drone footage with interactive virtual tours. Our editing team can create a seamless, dynamic video experience that allows viewers to explore the property from a bird’s-eye view or through guided transitions. We can also integrate interactive elements to engage the viewer further, making it easier for potential buyers to visualize the property."
+    },
+     {
+      "id": "05",
+      "image": "/assets/real_estate_promo_videos.png",
+      "title": "Real Estate Promo Videos",
+      "alt":"Real estate promotional video editing services.",
+      "description": "Craft stunning real estate promotional videos using high-quality drone footage. We’ll edit the aerial shots with smooth transitions, music, and titles, creating a compelling video that tells the story of your property and brand. With video editing outsourcing, we’ll deliver videos that boost your marketing efforts, giving you a competitive edge in the real estate market."
+    }
+  ],
+  "cropping_services" :  [
+    {
+      "id": "01",
+      "image": "/assets/Cinematic_Video_Cropping.png",
+      "title": "Cinematic Video Cropping",
+      "alt":"Cinematic video cropping for professional look and feel.",
+      "description": "Transform your raw videos into captivating visual narratives with our expert cinematic cropping services. We skillfully maintain the emotional impact and visual balance of your footage, eliminating any unnecessary distractions. Perfect for films, documentaries, and promotional videos, our cinematic cropping guarantees your content meets high professional quality standards."
+    },
+     {
+      "id": "02",
+      "image": "/assets/Canvas_Video_Cropping.png",
+      "title": "Canvas Video Cropping",
+      "alt":"Canvas-style video cropping for digital platforms.",
+      "description": "We provide expert Canvas video cropping that adapts your videos for seamless sharing on Instagram, TikTok, YouTube Shorts, and beyond. We tailor your content to fit any screen or aspect ratio without compromising quality or message clarity."
+    },
+     {
+      "id": "03",
+      "image": "/assets/Video_Text_Cropping.png",
+      "title": "Video Text Cropping",
+      "alt":"Video text cropping services for overlays and captions.",
+      "description": "Need to crop out subtitles, overlays, or watermarks? Our video text cropping service helps remove unwanted on-screen text while preserving video quality and layout. We also adjust placement of necessary text for better visual appeal and user readability."
+    },
+    {
+      "id": "04",
+      "image": "/assets/Split-screen_Cropping.png",
+      "title": "Split-screen Cropping",
+      "alt":"Split-screen video cropping for multi-view editing.",
+      "description": "Perfect for interviews, reaction videos, and product comparisons, our split-screen video cropping services allow you to combine multiple video sources into a clean, side-by-side or top-bottom layout. We ensure all video elements are properly framed and aligned for a cohesive viewing experience."
+    }
+  ],
+  "cropping_services_card" :  [
+    {
+      "id": "01",
+      "title": "Requirement Gathering",
+      "description": "We understand your video goals, target audience, and platform needs."
+    },
+     {
+      "id": "02",
+      "title": "Content Assessment",
+      "description": "Our editors review your footage and recommend optimal cropping formats."
+    },
+     {
+      "id": "03",
+      "title": "Editing & Cropping Execution",
+      "description": "We use industry-standard tools to deliver precise and clean crops with quality retention."
+    },
+    {
+      "id": "04",
+      "title": "Client Review & Revisions",
+      "description": "We share preview files for your feedback and apply necessary revisions."
+    },
+    {
+      "id": "05",
+      "title": "Final Delivery",
+      "description": "Cropped videos are delivered in your desired formats, ready for publishing or distribution."
+    }
+  ],
+  "clipping_services" :  [
+    {
+      "id": "01",
+      "image": "/assets/Corporate_Video_Clipping_Services.png",
+      "title": "Corporate Video Clipping Services",
+      "alt":"Corporate video clipping for training, ads, and events.",
+      "description": "Enhance your business communication with professionally clipped corporate videos. Perfect for training modules, product demos, executive summaries, and internal communications, our service focuses on extracting key moments to deliver clear, professional messaging."
+    },
+     {
+      "id": "02",
+      "image": "/assets/Interview_Video_Clipping_Services.png",
+      "title": "Interview Video Clipping Services",
+      "alt":"Interview video clipping services for highlights.",
+      "description": "Make your interviews more engaging by clipping the most insightful and powerful moments. We help you create highlight reels, soundbites, or social media teasers that maintain conversational flow and impact."
+    },
+     {
+      "id": "03",
+      "image": "/assets/Online_Video_Clipping_Services.png",
+      "title": "Online Video Clipping Services",
+      "alt":"Online video clipping for social and digital platforms.",
+      "description": "Ideal for digital marketers and content creators, this service offers quick and effective clipping of online videos for blogs, social media, and websites. Increase viewer retention by sharing bite-sized, targeted clips."
+    },
+    {
+      "id": "04",
+      "image": "/assets/Live_Event_Clipping_Multi-platform_Publishing_Services.png",
+      "title": "Live Event Clipping and Multi-platform Publishing Services",
+      "alt":"Live event video clipping and publishing across platforms.",
+      "description": "Showcase the vibrant atmosphere of live events with our skilled clipping and publishing solutions. We extract highlights in real-time or post-event and prepare them for instant sharing across multiple platforms."
+    },
+    {
+      "id": "05",
+      "image": "/assets/In-cloud_Video_Clipping_and_Editing.png",
+      "title": "In-cloud Video Clipping and Editing",
+      "alt":"Cloud-based video clipping and editing services.",
+      "description": "Leverage the power of cloud technology for flexible, scalable video clipping. By leveraging a secure cloud platform, we enable speedy collaboration, storage, and editing from anywhere, ensuring flawless project execution."
+    },
+    {
+      "id": "06",
+      "image": "/assets/AI-Powered_Content_Recognition.png",
+      "title": "AI-Powered Content Recognition",
+      "alt":"AI-powered video content recognition and editing automation.",
+      "description": "Utilizing AI-driven content recognition, we automatically identify key moments, faces, objects, and spoken words within your footage. This advanced technology accelerates the clipping process and enhances accuracy."
+    }
+  ],
+  "clipping_services_card" :  [
+    {
+      "id": "01",
+      "title": "Consultation & Requirement Analysis",
+      "description": "We begin by understanding your project goals, target audience, and specific video needs."
+    },
+     {
+      "id": "02",
+      "title": "Footage Upload & Secure Storage",
+      "description": "You upload your raw footage securely via our cloud platform for easy access and collaboration."
+    },
+     {
+      "id": "03",
+      "title": "AI-Assisted Scene Detection",
+      "description": "We use AI technology to identify key moments, faces, and objects, speeding up the clipping process."
+    },
+    {
+      "id": "04",
+      "title": "Professional Clipping & Editing",
+      "description": "Our skilled editors precisely trim and enhance your videos to create engaging and polished clips."
+    },
+    {
+      "id": "05",
+      "title": "Client Review & Feedback",
+      "description": "We share previews for your review and incorporate your feedback with revisions to ensure satisfaction."
+    },
+     {
+      "id": "06",
+      "title": "Final Delivery & Multi-Format Export",
+      "description": "Your clipped videos are delivered in optimized formats ready for publishing on all platforms."
+    }
+  ]
+}

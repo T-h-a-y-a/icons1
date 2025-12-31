@@ -1,0 +1,325 @@
+{
+
+  "software": [
+   
+    {
+      "id": "01",
+      "image": "/assets/end-to-end-software-solutions.jpg",
+      "heading": "End-to-End Software & Digital Solutions",
+      "alt":"Complete software and digital solutions from strategy to deployment.",
+      "link": "/services/software-development-services/software-solutions"
+    },
+    {
+      "id": "02",
+      "image": "/assets/ecommerce-development-services.jpg",
+      "heading": "E-Commerce Development & Growth Services",
+      "alt":"E-commerce development and growth services to scale online businesses.",
+      "link": "/services/software-development-services/ecommerce-development-services"
+    },
+    {
+      "id": "03",
+      "image": "/assets/custom-application-development.jpg",
+      "heading": "Custom Application Development & Lifecycle Support",
+      "alt":"Custom application development with full lifecycle support and maintenance.",
+      "link": "/services/software-development-services/custom-application-development"
+    }
+  ],
+
+  
+  "endtoend" :[
+    {
+      "id": "01",
+      "image": "/assets/Software_Product_Development.webp",
+      "title": "Software Product Development",
+      "alt":"Software product development services from concept to launch.",
+      "description": "Transform your ideas into reality through our complete product development services. From concept ideation and prototype design to full-scale deployment and support, we build robust, scalable software tailored to your business goals."
+    },
+    {
+      "id": "02",
+      "image": "/assets/Software_Consulting.webp",
+      "title": "Software Consulting",
+      "alt":"Expert software consulting for business technology solutions.",
+      "description": "Navigate complex technological challenges with expert guidance. Our consulting services help you choose the right tools, frameworks, and architectures, optimizing your development processes and aligning IT strategies with your business objectives."
+    },
+    {
+      "id": "03",
+      "image": "/assets/CMS_CRM_Solutions,_API_Integration,_and_Chatbot_Development.webp",
+      "title": "CMS & CRM Solutions, API Integration, and Chatbot Development",
+      "alt":"CMS, CRM, API integration, and chatbot development services.",
+      "description": "Drive customer loyalty and operational effectiveness with personalized CMS and CRM systems. Seamlessly integrate third-party APIs and deploy intelligent chatbots that provide 24/7 customer support and personalized user experiences."
+    },
+    {
+      "id": "04",
+      "image": "/assets/Mobile_App_Development.webp",
+      "title": "Mobile App Development",
+      "alt":"Mobile app development services for iOS and Android platforms.",
+      "description": "Reach users on the go with native and cross-platform mobile apps crafted for performance and usability. Whether ios, Android, or hybrid, our apps are designed to engage and retain customers."
+    },
+     {
+      "id": "05",
+      "image": "/assets/UIUX_Design_for_Mobile_Apps.webp",
+      "title": "UX Design for Mobile Apps",
+      "alt":"UX design services for mobile applications focused on usability and engagement.",
+      "description": "Our design experts create intuitive, visually appealing interfaces that enhance user satisfaction and drive app adoption. Merging style and performance, we craft exceptional mobile solutions."
+    },
+     {
+      "id": "06",
+      "image": "/assets/App_Testing_Maintenance_Services.webp",
+      "title": "App Testing & Maintenance Services",
+      "alt":"Mobile app testing and ongoing maintenance services.",
+      "description": "Ensure your applications run flawlessly with comprehensive testing and ongoing maintenance. We troubleshoot, optimize, and update your software to keep it dependable and competitive."
+    },
+     {
+      "id": "07",
+      "image": "/assets/software_testing_services.webp",
+      "title": "Software Testing Services",
+      "alt":"Comprehensive software testing services for functionality and quality assurance.",
+      "description": "Our rigorous testing methodologies include manual and automated testing, load testing, and security assessments to guarantee software quality and compliance with industry standards."
+    },
+     {
+      "id": "08",
+      "image": "/assets/e-commerce_development_services.webp",
+      "title": "E-Commerce Development Services",
+      "alt":"E-commerce development services for online store creation and optimization.",
+      "description": "Build secure, scalable, and feature-rich e-commerce platforms that deliver seamless shopping experiences. From storefront design to payment gateway integration, we cover every aspect to boost your online sales."
+    },
+     {
+      "id": "09",
+      "image": "/assets/Application_Development_Maintenance.webp",
+      "title": "Application Development & Maintenance",
+      "alt":"Application development and ongoing maintenance support.",
+      "description": "Keep your applications efficient and up-to-date with our continuous development and support services. We adapt your software to evolving market needs and technological advancements."
+    },
+     {
+      "id": "10",
+      "image": "/assets/Data_Analysis_Business_Research.webp",
+      "title": "Data Analysis & Business Research",
+      "alt":"Data analysis and business research services for decision-making.",
+      "description": "Leverage data-driven insights to make informed decisions. Our analytics and research services turn complex data into actionable strategies that enhance your competitive edge."
+    },
+     {
+      "id": "11",
+      "image": "/assets/cloud-service.webp",
+      "title": "Cloud Services",
+      "alt":"Cloud services for hosting, migration, and scalable infrastructure.",
+      "description": "Harness the power of cloud computing with scalable, secure, and cost-effective cloud solutions tailored to your business needs—enabling flexibility and innovation."
+    },
+     {
+      "id": "12",
+      "image": "/assets/AI_Machine_Learning_Services.webp",
+      "title": "AI & Machine Learning Services",
+      "alt":"AI and machine learning services for automation and intelligent insights.",
+      "description": "Integrate cutting-edge AI and ML technologies into your software to automate processes, personalize user experiences, and unlock predictive analytics that accelerate business growth."
+    }
+  ],
+
+  "endtoend_card" :[
+    {
+      "id": "01",
+      "title": "Requirement Analysis & Consultation",
+      "description": "We start by understanding your business needs and technical requirements to shape a clear project roadmap."
+    },
+    {
+      "id": "02",
+      "title": "Strategic Planning & Design",
+      "description": "Our experts craft detailed design blueprints and select the best tech stack aligned with your goals."
+    },
+    {
+      "id": "03",
+      "title": "Development & Integration",
+      "description": "We develop scalable, secure, and high-performance software, integrating APIs and third-party services as needed."
+    },
+    {
+      "id": "04",
+      "title": "Quality Assurance & Testing",
+      "description": "Complete testing verifies that your software is bug-free, protected, and user-friendly."
+    },
+     {
+      "id": "05",
+      "title": "Deployment & Launch",
+      "description": "We assist with smooth deployment on cloud or on-premise environments, ensuring minimal downtime."
+    },
+     {
+      "id": "06",
+      "title": "Ongoing Support & Maintenance",
+      "description": "Continuous monitoring, updates, and enhancements keep your software efficient and up-to-date."
+    }
+  ],
+
+  "e_commerce_development" :[
+    {
+      "id": "01",
+      "image": "/assets/Custom_Online_Store_Design_Development.webp",
+      "title": "Custom Online Store Design & Development",
+      "alt":"Custom online store design and development for unique branding.",
+      "description": "We design visually compelling, user-centric online stores that reflect your brand identity and are strategically optimized to drive conversions. Our sites are secure, fast-loading, mobile-friendly, and designed with growth in mind."
+    },
+    {
+      "id": "02",
+      "image": "/assets/Marketplace_Development_Multi-Vendor_Setup.webp",
+      "title": "Marketplace & Multi-Vendor Platform Development",
+      "alt":"Marketplace and multi-vendor platform development services.",
+      "description": "Launch robust multi-vendor marketplaces with features like vendor onboarding, commission tracking, and centralized admin controls—perfect for businesses moving into multi-seller models."
+    },
+    {
+      "id": "03",
+      "image": "/assets/CMS_CRM_Solutions,_API_Integration,_and_Chatbot_Development.webp",
+      "title": "CMS eCommerce Solutions (Shopify, WooCommerce, Magento)",
+      "alt":"CMS e-commerce solutions including Shopify, WooCommerce, and Magento.",
+      "description": "Build powerful online stores on leading platforms like Shopify, WooCommerce, or Magento. Our CMS-based solutions are customized to your business needs, offering easy management, advanced features, and scalability for long-term success."
+    },
+    {
+      "id": "04",
+      "image": "/assets/Mobile_eCommerce_app_development.webp",
+      "title": "Mobile eCommerce App Development",
+      "alt":"Mobile e-commerce app development services for iOS and Android.",
+      "description": "Engage mobile users with sleek, high-performing eCommerce apps for both Android and iOS. We design mobile apps for seamless browsing, secure transactions, and push notification marketing."
+    },
+     {
+      "id": "05",
+      "image": "/assets/3rd-Party_Integrations_Payment_CRM_Analytics.webp",
+      "title": "Third-Party Integrations: Payments, CRM, Analytics & More",
+      "alt":"Third-party integrations for payments, CRM, analytics, and other tools.",
+      "description": "Enhance your store with seamless integrations—payment gateways, CRM platforms, inventory systems, shipping APIs, and advanced analytics—ensuring smooth operations and real-time insights."
+    },
+     {
+      "id": "06",
+      "image": "/assets/social_media_digital_marketing_graphics.png",
+      "title": "SEO & Digital Marketing for eCommerce",
+      "alt":"SEO and digital marketing services tailored for e-commerce businesses.",
+      "description": "From keyword strategies and schema markup to targeted ads and email campaigns, we help you attract and retain your ideal customers."
+    },
+     {
+      "id": "07",
+      "image": "/assets/Support_Maintenance_Feature.webp",
+      "alt":"Ongoing maintenance and feature upgrade services for applications.",
+      "title": "Ongoing Maintenance & Feature Upgrades",
+      "description": "Keep your eCommerce store competitive with regular updates, security patches, performance optimization, and new feature rollouts to stay ahead in a dynamic market."
+    }
+  ],
+
+  "e_commerce_development_card" :[
+    {
+      "id": "01",
+      "title": "Discovery & Strategy Session",
+      "description": "We begin by understanding your business goals, audience, and competitive landscape to define clear objectives for functionality, branding, and future growth."
+    },
+    {
+      "id": "02",
+      "title": "Tailored Planning & Roadmap",
+      "description": "We develop a customized eCommerce strategy that includes platform recommendations, feature mapping, UI/UX wireframes, and marketing funnel integration."
+    },
+    {
+      "id": "03",
+      "title": "Design & UX Development",
+      "description": "Our team crafts user-centric, conversion-driven designs that reflect your brand and make navigation easy, ensuring an enjoyable shopping experience across all devices."
+    },
+    {
+      "id": "04",
+      "title": "Development & Technology Integration",
+      "description": "We build your store using modern technologies and connect essential systems—payments, CRMs, logistics, and marketing tools—for seamless backend workflows."
+    },
+     {
+      "id": "05",
+      "title": "Quality Testing & Optimization",
+      "description": "We rigorously test your site for functionality, security, speed, and compatibility to ensure a flawless launch across all browsers and devices."
+    },
+     {
+      "id": "06",
+      "title": "Deployment & Go-Live Support",
+      "description": "Once final approval is received, we manage the deployment process smoothly—ensuring zero downtime and a seamless transition to your live environment."
+    },
+    {
+      "id": "07",
+      "title": "Digital Marketing & SEO Setup",
+      "description": "We lay the foundation for strong digital visibility with technical SEO, metadata setup, campaign readiness, and integrations for email, ads, and social media."
+    },
+    {
+      "id": "08",
+      "title": "Support & Growth Optimization",
+      "description": "After launch, we monitor performance, gather feedback, and continuously refine your eCommerce platform for improved user experience and increased revenue."
+    }
+
+  ],
+  "custom_application" :[
+    {
+      "id": "01",
+      "image": "/assets/Custom_Web_Desktop_Mobile_Application_Development.webp",
+      "title": "Custom Web, Desktop & Mobile Application Development",
+      "alt":"Custom development of web, desktop, and mobile applications.",
+      "description": "We develop high-quality, tailored applications across web, desktop, and mobile environments. Our solutions are engineered for performance, scalability, and seamless integration, aligned perfectly with your business workflows and user requirements."
+    },
+    {
+      "id": "02",
+      "image": "/assets/UIUX_Design_Aligned_with_Brand_User_Experience.webp",
+      "title": "UI/UX Design Aligned with Brand & User Experience",
+      "alt":"UI/UX design services aligned with brand identity and user needs.",
+      "description": "Our expert designers create intuitive, visually appealing interfaces that reflect your brand identity and deliver exceptional user experiences—boosting engagement, satisfaction, and adoption."
+    },
+    {
+      "id": "03",
+      "image": "/assets/Comprehensive_QA_Testing_Services.webp",
+      "title": "Comprehensive QA & Testing Services",
+      "alt":"End-to-end QA and testing services for software reliability.",
+      "description": "Quality is at the core of every application we build. Through rigorous multi-stage testing—including functional, security, and performance tests—we ensure your applications operate flawlessly across devices and environments."
+    },
+    {
+      "id": "04",
+      "image": "/assets/Post-Deployment_Support_Upgrades_Incident_Management.webp",
+      "title": "Post-Deployment Support, Upgrades & Incident Management",
+      "alt":"Post-deployment support, software upgrades, and incident management.",
+      "description": "We provide ongoing application support with proactive monitoring, timely upgrades, and rapid incident resolution—minimizing downtime and ensuring continuous business operations."
+    },
+     {
+      "id": "05",
+      "image": "/assets/Application_Enhancements_Continuous_Performance_Monitoring.webp",
+      "title": "Application Enhancements & Continuous Performance Monitoring",
+      "alt":"Application enhancements and continuous performance monitoring for optimization.",
+      "description": "Our continuous improvement approach involves regular feature enhancements and detailed performance tracking to optimize your application’s effectiveness and adapt to evolving business needs."
+    }
+  ],
+
+  "custom_application_card" :[
+    {
+      "id": "01",
+      "title": "Consultation & Requirement Analysis",
+      "description": "We start with an in-depth consultation to understand your business goals, technical requirements, and user expectations."
+    },
+    {
+      "id": "02",
+      "title": "Tailored Strategy & Planning",
+      "description": "Our team crafts a customized development roadmap focusing on technology selection, architecture, UX design, and project timelines."
+    },
+    {
+      "id": "03",
+      "title": "Design & Prototyping",
+      "description": "We develop user-centric UI/UX prototypes that mirror your brand and provide a seamless, engaging user experience."
+    },
+    {
+      "id": "04",
+      "title": "Development & Integration",
+      "description": "Our skilled developers build scalable, secure applications integrating necessary third-party systems, APIs, and data sources."
+    },
+     {
+      "id": "05",
+      "title": "Comprehensive Testing",
+      "description": "Robust QA processes validate functionality, performance, security, and compatibility to ensure a bug-free, reliable product."
+    },
+     {
+      "id": "06",
+      "title": "Deployment & Launch",
+      "description": "We deploy your application on secure infrastructure with minimal disruption, ready to meet your business demands."
+    },
+    {
+      "id": "07",
+      "title": "Ongoing Support & Maintenance",
+      "description": "Post-launch, we monitor performance, provide updates, and address issues swiftly—keeping your applications running smoothly."
+    },
+    {
+      "id": "08",
+      "title": "Continuous Enhancement & Optimization",
+      "description": "We partner with you to evolve your application’s capabilities and maintain peak performance aligned with your growth."
+    }
+
+  ]
+}

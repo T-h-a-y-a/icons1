@@ -1,0 +1,377 @@
+{
+
+  "digital_marketing": [
+   
+    {
+      "id": "01",
+      "image": "/assets/seo.jpg",
+      "heading": "SEO",
+      "alt":"Search engine optimization (SEO) services to improve website ranking and visibility.",
+      "link": "/services/digital-marketing-services/outsource-seo-services"
+    },
+    {
+      "id": "02",
+      "image": "/assets/sem-services.jpg",
+      "heading": "Search Engine Marketing",
+      "alt":"SEM services for paid search campaigns and increased online visibility.",
+      "link": "/services/digital-marketing-services/sem-services"
+    },
+    {
+      "id": "03",
+      "image": "/assets/social-media-marketing-services.jpg",
+      "heading": "Social Media Marketing",
+      "alt":"Social and search media marketing services for brand awareness and engagement.",
+      "link": "/services/digital-marketing-services/social-media-marketing-services"
+    },
+    {
+      "id": "04",
+      "image": "/assets/content-creation-services.jpg",
+      "heading": "Content Marketing Services",
+      "alt":"Content marketing services to create, publish, and promote valuable content.",
+      "link": "/services/digital-marketing-services/content-creation-services"
+    },
+    {
+      "id": "05",
+      "image": "/assets/email-marketing-services.jpg",
+      "heading": "Email Marketing",
+      "alt":"Email marketing services for campaigns, newsletters, and customer engagement.",
+      "link": "/services/digital-marketing-services/email-marketing-services"
+    },
+     {
+      "id": "06",
+      "image": "/assets/web-development-services.jpg",
+      "heading": "Website Design & Development",
+      "alt":"Website design and development services for modern, responsive websites.",
+      "link": "/services/digital-marketing-services/web-development-services"
+    },
+    {
+      "id": "07",
+      "image": "/assets/cro-services.jpg",
+      "heading": "CRO Services",
+      "alt":"Conversion Rate Optimization (CRO) services to boost leads and sales.",
+      "link": "/services/digital-marketing-services/cro-services"
+    }
+  ],
+
+  "digital_marketing_card" :[
+    {
+      "id": "01",
+      "title": "Discovery & Consultation",
+      "description": "We start by understanding your business goals, target audience, and current digital marketing efforts. This allows us to tailor a strategy that aligns with your objectives and growth ambitions."
+    },
+    {
+      "id": "02",
+      "title": "Strategy Development",
+      "description": "We develop a customized digital marketing plan that includes SEO, SEM, SMM, and other services to ensure a cohesive and integrated approach to your online marketing."
+    },
+     {
+      "id": "03",
+      "title": "Execution & Implementation",
+      "description": "We implement your digital marketing campaigns across various channels, including search engines, social media, and email, using the latest tools and strategies to drive results."
+    },
+    {
+      "id": "04",
+      "title": "Ongoing Optimization & Monitoring",
+      "description": "We continuously monitor the performance of your campaigns, optimizing them for better performance. From A/B testing to adjusting bids, we ensure that your campaigns are always improving."
+    },
+    {
+      "id": "05",
+      "title": "Reporting & Analysis",
+      "description": "Our transparent reporting system gives you in-depth insights into the effectiveness of your digital marketing campaigns. We provide data-driven analysis that helps you make informed decisions and refine your strategy."
+    },
+    {
+      "id": "06",
+      "title": "Continuous Growth & Scaling",
+      "description": "As your business grows, we adapt your digital marketing strategy to scale with it. Whether you're expanding to new markets or launching new products, we're here to support your growth every step of the way."
+    }
+  ],
+
+  "seo" :[
+    {
+      "id": "01",
+      "image": "/assets/local-seo.png",
+      "title": "Local SEO",
+      "alt":"Local SEO services to improve visibility in regional search results.",
+      "description": "Boost your local search visibility and make your mark on Maps. We help you rank in geo-targeted searches with optimized local listings, location-based keywords, and high-quality citations—ideal for service-area businesses."
+    },
+    {
+      "id": "02",
+      "image": "/assets/technical-seo.png",
+      "title": "Technical SEO",
+      "alt":"Technical SEO services to optimize website performance and crawlability.",
+      "description": "We perform thorough technical audits to identify hidden issues that could impact your search performance. From improving site speed and mobile friendliness to fixing crawl errors and implementing structured data, our technical SEO services lay a strong foundation for growth."
+    },
+    {
+      "id": "03",
+      "image": "/assets/on-page-seo.png",
+      "title": "On-Page SEO",
+      "alt":"On-page SEO services including keyword optimization, content, and meta tags.",
+      "description": "Our on-page SEO strategies focus on optimizing each element of your website—from meta tags and headers to content structure and internal linking. This ensures search engines understand and index your pages correctly while enhancing user experience."
+    },
+    {
+      "id": "04",
+      "image": "/assets/off-page-seo.png",
+      "title": "Off-Page SEO",
+      "alt":"Off-page SEO services focusing on backlinks and domain authority growth.",
+      "description": "Strengthen your domain authority with ethical off-page SEO tactics including white-hat link building, brand mentions, and digital PR. We focus on securing high-quality backlinks from reputable sources to enhance your site's trust and visibility."
+    },
+     {
+      "id": "05",
+      "image": "/assets/E_commerce_Seo.png",
+      "title": "E-commerce SEO",
+      "alt":"E-commerce SEO services to optimize online stores for search rankings.",
+      "description": "We optimize product pages, integrate rich snippets, and refine site structure to attract more qualified traffic to your online store. Whether you’re on Shopify, Magento, or WooCommerce, our e-commerce SEO strategies are tailored for higher rankings and conversions."
+    },
+     {
+      "id": "06",
+      "image": "/assets/Website_Audit.png",
+      "title": "SEO Website Audit",
+      "alt":"SEO website audit services to identify issues and improve site performance.",
+      "description": "Our comprehensive SEO audit reveals issues that could be affecting your search engine performance. We analyze everything from indexing and site architecture to content gaps and backlink profiles—delivering a roadmap for sustainable growth."
+    },
+     {
+      "id": "07",
+      "image": "/assets/SEO_Competitor_Analysis.png",
+      "title": "Competitor SEO Analysis",
+      "alt":"Competitor SEO analysis to evaluate strengths and identify opportunities.",
+      "description": "Stay ahead of the competition with our advanced SEO competitor analysis. We dissect your competitors’ keywords, backlinks, and content strategies to uncover opportunities that give your business a competitive edge."
+    }
+  ],
+
+  "search_engine_marketing" :[
+    {
+      "id": "01",
+      "image": "/assets/Landing_Page_Creation.png",
+      "title": "Landing Page Creation",
+      "alt":"Landing page design and development for higher conversions.",
+      "description": "We create high-converting landing pages optimized for both search engines and user experience. Each page is built with a clear goal—whether it's lead generation, sales, or sign-ups—ensuring your visitors take the desired action. Fast-loading, mobile-friendly, and conversion-focused, our landing pages increase the performance of your SEM campaigns."
+    },
+    {
+      "id": "02",
+      "image": "/assets/Paid_Search.png",
+      "title": "Paid Search (PPC Management)",
+      "alt":"PPC management services for paid ads and search engine campaigns.",
+      "description": "Our paid search experts manage end-to-end PPC campaigns on platforms like Google Ads and Bing Ads. We handle everything from campaign setup to bid management, ad scheduling, and geo-targeting—ensuring your ads reach the right audience at the right time. Our focus: high-quality traffic with optimal cost-per-click (CPC)."
+    },
+    {
+      "id": "03",
+      "image": "/assets/Ads_Copy_Writing.png",
+      "alt":"Ads copywriting services for persuasive and engaging ad content.",
+      "title": "Ads Copywriting",
+      "description": "Our in-house copywriters specialize in crafting compelling, action-oriented ad copy that drives clicks and conversions. Each headline, description, and call-to-action is strategically tested and optimized to boost your quality score, click-through rate (CTR), and conversions."
+    },
+    {
+      "id": "04",
+      "image": "/assets/PPC_Keyword_Search.png",
+      "title": "PPC Keyword Research",
+      "alt":"PPC keyword research services to target profitable and relevant terms.",
+      "description": "We conduct advanced PPC keyword research to identify the most relevant, high-intent search terms for your business. Our data-driven approach ensures we target keywords with the best balance of competition, search volume, and conversion potential—maximizing ROI from every dollar spent."
+    },
+     {
+      "id": "05",
+      "image": "/assets/conversion_tracking_setup.png",
+      "title": "Conversion Tracking Setup",
+      "alt":"Conversion tracking setup for accurate performance measurement.",
+      "description": "Success isn’t just about traffic—it’s about results We set up precise conversion tracking to measure every valuable action—purchases, leads, form submissions, and more. With tools like Google Tag Manager, Google Analytics, and CRM integrations, we help you track ROI with complete transparency."
+    },
+     {
+      "id": "06",
+      "image": "/assets/Ads_AB_Split_Testing.png",
+      "title": "Ads A/B Split Testing",
+      "alt":"A/B split testing services for ad performance optimization.",
+      "description": "We run continuous A/B split testing on ads, landing pages, and targeting strategies to optimize performance. By analyzing what works best in real-time, we refine your campaigns to lower costs and improve conversions—making your SEM campaigns smarter over time."
+    },
+     {
+      "id": "07",
+      "image": "/assets/Remarketing_Campaigns.png",
+      "title": "Remarketing Campaigns",
+      "alt":"Remarketing campaign services to re-engage past visitors and leads.",
+      "description": "Bring back lost visitors and boost retention with strategic remarketing campaigns. Whether it’s Google Display Network, YouTube, or social retargeting, we keep your brand top-of-mind and encourage users to complete their purchase or inquiry journey."
+    }
+  ],
+  "search_media_marketing" :[
+    {
+      "id": "01",
+      "image": "/assets/Social_Media_Set-up_and_Audit.png",
+      "title": "Social Media Set-Up and Audit",
+      "alt":"Social media setup and audit services for effective online presence.",
+      "description": "Kickstart your social media presence with a thorough audit and professional account setup designed specifically for your brand. We assess your existing channels, highlight strengths and areas for improvement, and optimize your profiles to align perfectly with your brand identity and business objectives."
+    },
+    {
+      "id": "02",
+      "image": "/assets/Social_Media_Content_Creation.png",
+      "title": "Social Media Content Creation",
+      "alt":"Social media content creation for engagement and audience growth.",
+      "description": "Content is king on social platforms. Our creative team crafts engaging, high-quality content—including stunning visuals, captivating videos, and compelling captions—that resonates with your target audience. We tailor content for each platform, enhancing brand storytelling and boosting user engagement."
+    },
+    {
+      "id": "03",
+      "image": "/assets/Content_Calendar_management_CM.png",
+      "title": "Content Calendar Management",
+      "alt":"Content calendar management services for consistent publishing.",
+      "description": "Consistency is key to social media success. We manage your content calendar to ensure regular posting and strategic timing. This keeps your audience engaged and maximizes reach while freeing you up to focus on your core business."
+    },
+    {
+      "id": "04",
+      "image": "/assets/competitive-analysis.png",
+      "title": "Competitive Analysis",
+      "alt":"Competitive analysis services to benchmark and plan marketing strategies.",
+      "description": "We conduct advanced PPC keyword research to identify the most relevant, high-intent search terms for your business. Our data-driven approach ensures we target keywords with the best balance of competition, search volume, and conversion potential—maximizing ROI from every dollar spent."
+    },
+     {
+      "id": "05",
+      "image": "/assets/Social_Media_ads_Tracking.png",
+      "title": "Social Media Ads Tracking",
+      "alt":"Social media ads tracking for performance and ROI measurement.",
+      "description": "Success isn’t just about traffic—it’s about results We set up precise conversion tracking to measure every valuable action—purchases, leads, form submissions, and more. With tools like Google Tag Manager, Google Analytics, and CRM integrations, we help you track ROI with complete transparency."
+    },
+     {
+      "id": "06",
+      "image": "/assets/Paid_Social_Media_Marketing.png",
+      "title": "Paid Social Media Marketing",
+      "alt":"Paid social media marketing campaigns for targeted reach.",
+      "description": "Extend your reach with strategic paid campaigns across Facebook, Instagram, LinkedIn, and Twitter, tailored to your audience. Our paid social experts create, monitor, and optimize ads to deliver the best possible ROI, driving qualified traffic and boosting conversions."
+    }
+  ],
+  "content_marketing_services" :[
+    {
+      "id": "01",
+      "image": "/assets/Content_Strategy_development.png",
+      "title": "Content Strategy Development",
+      "alt":"Content strategy development for effective marketing campaigns.",
+      "description": "Our process begins with robust content strategy development, aligning your business goals with market insights and audience needs. We identify target keywords, content themes, and distribution channels to create a clear roadmap that ensures every piece of content supports your broader marketing objectives."
+    },
+    {
+      "id": "02",
+      "image": "/assets/Content_Calendar_Management.png",
+      "title": "Content Calendar Management",
+      "alt":"Content calendar management for planned, structured publishing.",
+      "description": "Maintaining a consistent content schedule is crucial for sustained engagement. Our content calendar management service organizes your publishing timeline, coordinating topics, formats, and deadlines to optimize visibility and audience interaction."
+    },
+    {
+      "id": "03",
+      "image": "/assets/Content_Auditing_and_Analysis.png",
+      "title": "Content Auditing and Analysis",
+      "alt":"Content auditing and analysis services to improve effectiveness.",
+      "description": "We conduct thorough content auditing and analysis to evaluate your existing assets. By identifying content gaps, redundancies, and SEO opportunities, we help you refine your content library and maximize its effectiveness."
+    },
+    {
+      "id": "04",
+      "image": "/assets/Content_Analytics_and_Reporting.png",
+      "title": "Content Analytics and Reporting",
+      "alt":"Content analytics and reporting for performance insights.",
+      "description": "Our team leverages advanced analytics tools to monitor content performance and audience behavior. With detailed content analytics and reporting, we provide actionable insights that guide continuous optimization and demonstrate clear ROI."
+    },
+     {
+      "id": "05",
+      "image": "/assets/Content_Creation_and_Copywriting_Services.png",
+      "title": "Content Creation and Copywriting Services",
+      "alt":"Professional content creation and copywriting for digital marketing.",
+      "description": "Our skilled writers deliver engaging, SEO-optimized content across formats—including blogs, articles, web pages, and more. Our content creation services focus on producing high-quality copy that aligns with your brand voice and enhances search engine rankings through targeted SEO content writing."
+    }
+  ],
+  "email_marketing_services" :[
+    {
+      "id": "01",
+      "image": "/assets/Audit_and_Strategy.png",
+      "title": "Audit and Strategy",
+      "alt":"Marketing audit and strategy services for growth and optimization.",
+      "description": "We start with a thorough email marketing audit and strategy development process. By analyzing your existing campaigns, subscriber behavior, and industry benchmarks, we identify opportunities to improve deliverability, open rates, and conversions. Our data-driven strategies align with your brand goals and target audience to maximize impact."
+    },
+    {
+      "id": "02",
+      "image": "/assets/Template_Design_Development.png",
+      "title": "Template Design and Development",
+      "alt":"Email and web template design and development services.",
+      "description": "From campaign setup to execution and optimization, our email marketing management services handle every aspect of your email communications. We craft compelling email marketing content, segment your audience for targeted messaging, automate workflows, and monitor performance to continually refine your campaigns for better results."
+    },
+    {
+      "id": "03",
+      "image": "/assets/Email_Marketing.png",
+      "title": "Email Marketing Management",
+      "alt":"Full-service email marketing management for campaigns and automation.",
+      "description": "We conduct thorough content auditing and analysis to evaluate your existing assets. By identifying content gaps, redundancies, and SEO opportunities, we help you refine your content library and maximize its effectiveness."
+    }
+  ],
+  "website_development_services" :[
+    {
+      "id": "01",
+      "image": "/assets/Custom_Website_Deign.png",
+      "title": "Custom Website Design",
+      "alt":"Custom website design services tailored to business branding.",
+      "description": "Our bespoke website design service crafts distinctive, visually captivating sites that embody your brand’s identity and values. We prioritize user experience, ensuring intuitive navigation and compelling visuals that captivate visitors and encourage interaction."
+    },
+    {
+      "id": "02",
+      "image": "/assets/WordPress_Website_Design_&_Development.png",
+      "title": "WordPress Website Design & Development",
+      "alt":"WordPress website design and development for scalable sites.",
+      "description": "As specialists in WordPress, we provide scalable and flexible WordPress website design & development tailored to your requirements. Whether you need a simple blog, an e-commerce platform, or a complex corporate site, we build responsive, easy-to-manage websites optimized for speed and SEO."
+    },
+    {
+      "id": "03",
+      "image": "/assets/Dynamic_Website.png",
+      "title": "Dynamic Website Development",
+      "alt":"Dynamic website development services for interactive websites.",
+      "description": "Our dynamic website solutions enable interactive, database-driven experiences that adapt to user behavior and business needs. We develop websites with robust functionality—such as content management systems, user portals, and real-time updates—to engage your audience effectively."
+    }
+  ],
+  "cro_services" :[
+    {
+      "id": "01",
+      "image": "/assets/bounce-rate.png",
+      "title": "Bounce Rate Optimization",
+      "alt":"Bounce rate optimization services to improve user retention.",
+      "description": "Reducing your site’s bounce rate is critical for keeping visitors engaged We detect where visitors drop off and make precise improvements to keep them engaged longer."
+    },
+    {
+      "id": "02",
+      "image": "/assets/Click-through_Rate.png",
+      "title": "Click-Through Rate (CTR) Improvement",
+      "alt":"CTR improvement strategies for higher engagement and clicks.",
+      "description": "We enhance your website’s call-to-actions, headlines, and layout to increase CTR, guiding visitors to key conversion pages effectively."
+    },
+    {
+      "id": "03",
+      "image": "/assets/Pages_Per_Visit.png",
+      "title": "Increasing Pages Per Visit",
+      "alt":"Optimization services to increase average pages viewed per visit.",
+      "description": "By optimizing navigation and content relevance, we help increase the average pages per visit, encouraging users to explore your offerings in depth."
+    },
+     {
+      "id": "04",
+      "image": "/assets/page_load_time.png",
+      "title": "Page Load Time Enhancement",
+      "alt":"Page speed optimization services for faster website performance.",
+      "description": "Fast-loading websites are key to maintaining user engagement and boosting search engine rankings. Our CRO services prioritize minimizing page load times to ensure a smooth and seamless browsing experience."
+    },
+     {
+      "id": "05",
+      "image": "/assets/Return_On_Investment.png",
+      "title": "Maximizing Return on Investment",
+      "alt":"ROI-focused digital marketing services for business growth.",
+      "description": "We track and optimize your campaigns to ensure the highest return on investment, focusing on strategies that deliver measurable business value."
+    },
+     {
+      "id": "06",
+      "image": "/assets/Leads_Generated.png",
+      "title": "Leads Generated & Website Traffic Growth",
+      "alt":"Services to increase qualified leads and website traffic.",
+      "description": "Our CRO solutions target both attracting high-quality website traffic and converting those visitors into actionable leads generated."
+    },
+     {
+      "id": "07",
+      "image": "/assets/Exit_Rate.png",
+      "title": "Exit Rate Analysis & Reduction",
+      "alt":"Exit rate analysis and optimization to retain visitors.",
+      "description": "By analyzing why visitors leave your site, we implement solutions to lower exit rates and keep potential customers engaged."
+    },
+     {
+      "id": "08",
+      "image": "/assets/Cost_Per_Conversion.png",
+      "title": "Lowering Cost Per Conversion",
+      "alt":"Strategies to reduce cost per conversion in marketing campaigns.",
+      "description": "Optimizing conversion paths and user flows helps reduce your cost per conversion, making your marketing budget more efficient."
+    }
+  ]
+}

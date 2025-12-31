@@ -1,0 +1,1306 @@
+{
+    "DataManagementServices_card" :[
+    {
+      "id": "01",
+      "title": "Quick Turn Around Time",
+      "description": "We prioritize client needs, ensuring timely delivery without compromising quality, achieving an average turnaround time reduction."
+    },
+    {
+      "id": "02",
+      "title": "Dedicated 24/7 Service and Support",
+      "description": "Our team works around the clock, ensuring constant availability for clients across all time zones, providing continuous support."
+    },
+     {
+      "id": "03",
+      "title": "Quick but Smart Work Culture",
+      "description": "We combine machine and manpower in a flexible workflow, resulting in an accuracy rate in all processes."
+    },
+    {
+      "id": "04",
+      "title": "Data Security and Non-Disclosure Compliance ",
+      "description": "We protect your data with robust security measures and strict confidentiality protocols, ensuring the highest levels of safety."
+    },
+    {
+      "id": "05",
+      "title": "Free Sampling",
+      "description": "We offer free sampling to better understand your requirements, allowing us to provide accurate pricing and value-added services that meet your needs."
+    },
+    {
+      "id": "06",
+      "title": "Bridging the Technology Gap",
+      "description": "We embrace the latest technologies, adapting quickly to ensure the most efficient and effective solutions, backed by our 21 years of expertise in the field."
+    },
+    {
+      "id": "07",
+      "title": "Cost Reduction ",
+      "description": "By optimizing processes and leveraging technology, we help clients achieve cost reductions, delivering more value for your investment."
+    }
+  ],
+
+  "Dataentryservices" :[
+    {
+      "id": "01",
+      "title": "Consultation & Requirement Gathering",
+      "description": "We begin by understanding your specific data entry needs, formats, volume, and turnaround expectations, ensuring tailored solutions."
+    },
+    {
+      "id": "02",
+      "title": "Project Planning & Customization",
+      "description": "Our team designs a customized workflow, identifying the best methods and tools for your project, and setting clear milestones for delivery."
+    },
+     {
+      "id": "03",
+      "title": "Data Collection & Pre-Processing",
+      "description": "Source data is collected and organized, ensuring it’s clean and ready for efficient entry into digital formats."
+    },
+    {
+      "id": "04",
+      "title": "Data Entry & Validation",
+      "description": "Data is entered into the desired format using manual entry or automated tools, followed by a verification step to ensure accuracy."
+    },
+    {
+      "id": "05",
+      "title": "Quality Assurance & Review",
+      "description": "Each dataset undergoes thorough quality checks to confirm that all data is accurate, consistent, and meets client specifications."
+    },
+    {
+      "id": "06",
+      "title": "Secure Delivery & Feedback",
+      "description": "Final data is delivered securely in the agreed format. We welcome client feedback to ensure the final output aligns with your expectations."
+    }
+  ],
+
+   "Dataconversionservices" :[
+    {
+      "id": "01",
+      "title": "Client Consultation & Requirement Gathering",
+      "description": "We start by engaging with you to understand your exact requirements, preferred formats, volume of data, and turnaround expectations."
+    },
+    {
+      "id": "02",
+      "title": "Project Planning & Workflow Design",
+      "description": "Our team creates a customized project plan outlining tools, resources, timelines, and quality benchmarks to ensure smooth execution."
+    },
+     {
+      "id": "03",
+      "title": "Data Collection & Pre-Processing",
+      "description": "All source documents are securely gathered and cleaned to eliminate errors or inconsistencies before conversion begins."
+    },
+    {
+      "id": "04",
+      "title": "Accurate Data Conversion",
+      "description": "Using a combination of automation and manual precision, we convert your data into the required format (PDF, XML, Word, ePub, etc.) with structure and consistency."
+    },
+    {
+      "id": "05",
+      "title": "Multi-Level Quality Checks",
+      "description": "Every file undergoes strict quality control, including format validation, content verification, and compliance checks to ensure 99.99% accuracy."
+    },
+    {
+      "id": "06",
+      "title": "Secure Delivery & Client Feedback",
+      "description": "Final output is delivered via secure channels. We welcome feedback and offer post-delivery support to guarantee complete satisfaction."
+    }
+  ],
+
+  "ebook" :[
+    {
+      "id": "01",
+      "title": "Project Evaluation",
+      "description": "We start by understanding your requirements, including data input, project budget, and deadlines."
+    },
+    {
+      "id": "02",
+      "title": "Data Cleansing",
+      "description": "We evaluate your manuscript for errors, ensuring the content is error-free before converting it to the desired format."
+    },
+     {
+      "id": "03",
+      "title": "Digitization & Design",
+      "description": "Your content is transformed into a fully-fledged eBook, including cover designs, interactive features, and custom layouts."
+    },
+    {
+      "id": "04",
+      "title": "Quality Assurance",
+      "description": "We enforce a stringent quality check process to ensure the final product meets our high standards of excellence."
+    },
+    {
+      "id": "05",
+      "title": "Delivery",
+      "description": "Once the eBook is finalized, we deliver the output and incorporate any feedback for a perfect final result."
+    }
+  ],
+
+  "ocrservices" :[
+    {
+      "id": "01",
+      "title": "Consultation & Requirements Gathering",
+      "description": "We start by understanding your specific needs—whether it's invoice processing, document verification, or healthcare data entry. This helps us design a tailored OCR solution for you."
+    },
+    {
+      "id": "02",
+      "title": "Document Scanning & Data Capture",
+      "description": "We scan your documents and utilize our advanced OCR technology to extract data accurately. Whether physical or digital, we capture critical data and transform it into a structured format."
+    },
+     {
+      "id": "03",
+      "title": "Data Validation & Verification",
+      "description": "After data capture, we validate and verify the information to ensure its accuracy. For sensitive documents like legal papers or insurance claims, we use OCR document verification to cross-check data."
+    },
+    {
+      "id": "04",
+      "title": "Data Conversion & Transformation",
+      "description": "The captured data is then converted into a format that’s easy to work with—such as Excel, CSV, or searchable PDF—making it ready for further analysis, reporting, or archiving."
+    },
+    {
+      "id": "05",
+      "title": "Integration & Automation",
+      "description": "We integrate the processed data into your existing systems and workflows, automating your document handling processes and improving overall efficiency."
+    },
+    {
+      "id": "06",
+      "title": "Continuous Monitoring & Support",
+      "description": "After the OCR solution is implemented, we continue to monitor and optimize its performance. Our support team is available 24/7 to assist with any issues and ensure smooth operations."
+    }
+  ],
+    "Dataextractionservices" :[
+    {
+      "id": "01",
+      "title": "Initial Consultation and Requirements Gathering",
+      "description": "We take the time to understand your business objectives, data needs, and compliance priorities. Our team tailors the extraction approach based on these insights."
+    },
+    {
+      "id": "02",
+      "title": "Data Source Identification",
+      "description": "We identify relevant data sources—websites, documents, or surveys—that align with your business objectives We select these sources to ensure they provide practical, insightful information."
+    },
+     {
+      "id": "03",
+      "title": "Custom Solution Design",
+      "description": "A custom data extraction plan is created, selecting the best tools and technologies for your specific needs. The approach is optimized for maximum efficiency and precision."
+    },
+    {
+      "id": "04",
+      "title": "Data Extraction and Automation",
+      "description": "We leverage advanced automated tools for extracting data quickly and accurately from your chosen sources. Complex sources are processed using OCR and AI-powered techniques."
+    },
+    {
+      "id": "05",
+      "title": "Data Cleaning and Structuring",
+      "description": "Extracted data is cleaned, organized, and structured to remove errors and duplicates. The result is high-quality data ready for analysis."
+    },
+    {
+      "id": "06",
+      "title": "Data Integration",
+      "description": "We integrate the cleaned data into your existing systems, ensuring smooth compatibility with your tools and platforms. Flexibility in how you access the data is provided."
+    },
+     {
+      "id": "07",
+      "title": "Security and Compliance Verification",
+      "description": "Data is handled securely, with encryption and secure protocols in place to meet GDPR, CCPA, and other regulations. We ensure your data is fully compliant."
+    },
+     {
+      "id": "08",
+      "title": "Quality Assurance & Final Review",
+      "description": "Our QA team conducts a final review to ensure the extracted data meets your requirements. Accuracy and completeness are verified before delivery."
+    },
+     {
+      "id": "09",
+      "title": "Delivery and Ongoing Support",
+      "description": "Data is delivered in your preferred format (CSV, Excel, etc.), with continuous support for future adjustments and updates."
+    },
+     {
+      "id": "10",
+      "title": "Continuous Optimization and Updates",
+      "description": "We continually monitor and improve the extraction process, adapting to new data needs and compliance regulations."
+    }
+  ],
+
+   "Dataprocessingservices" :[
+    {
+      "id": "01",
+      "title": "Consultation & Requirement Analysis",
+      "description": "We start with a detailed consultation to understand your business goals and data needs, allowing us to create a customized solution that fits perfectly."
+    },
+    {
+      "id": "02",
+      "title": "Data Collection & Organization",
+      "description": "We collect relevant raw data from multiple sources, ensuring it’s properly organized for efficient processing and easy access."
+    },
+     {
+      "id": "03",
+      "title": "Data Cleansing & Deduplication",
+      "description": "Our team cleans and removes duplicates, ensuring only accurate, high-quality data is used for further processing, minimizing errors."
+    },
+    {
+      "id": "04",
+      "title": "Data Transformation & Validation",
+      "description": "We convert raw data into structured, usable formats, while validating accuracy and ensuring compliance with industry standards."
+    },
+    {
+      "id": "05",
+      "title": "Analysis & Insight Generation",
+      "description": "We analyze the processed data to extract valuable insights, offering actionable reports, dashboards, and charts that support informed decision-making."
+    },
+    {
+      "id": "06",
+      "title": "Ongoing Monitoring & Support",
+      "description": "After delivery, we provide continuous monitoring and support, ensuring that your data systems remain optimized and meet your long-term business goals."
+    }
+  ],
+
+  "ecommercedataentry" :[
+    {
+      "id": "01",
+      "title": "Consultation & Requirement Gathering",
+      "description": "We start by understanding your specific needs, platform preferences, and business goals to customize a product data entry strategy that aligns with your requirements."
+    },
+    {
+      "id": "02",
+      "title": "Product Data Collection & Organization",
+      "description": "Our team gathers the necessary product information from reliable sources, ensuring all relevant data, including images, descriptions, prices, and specifications, is accurately captured."
+    },
+     {
+      "id": "03",
+      "title": "Data Entry & Upload",
+      "description": "We efficiently enter the product details into your chosen eCommerce platform (Shopify, BigCommerce, WooCommerce), ensuring that each listing is optimized for search and visibility."
+    },
+    {
+      "id": "04",
+      "title": "Quality Control & Validation",
+      "description": "Each product listing goes through a thorough quality check to verify the accuracy of the data. We ensure that no errors or discrepancies exist in the entries before they go live."
+    },
+    {
+      "id": "05",
+      "title": "Ongoing Updates & Maintenance",
+      "description": "We offer continuous support to update your product catalog, ensuring that new products, seasonal updates, and any changes in pricing or descriptions are managed seamlessly."
+    },
+    {
+      "id": "06",
+      "title": "Post-Upload Support & Optimization",
+      "description": "After data entry, we monitor performance and provide optimization suggestions to enhance your listings and help you make the most of your product pages."
+    }
+  ],
+  "cae" :[
+    {
+      "id": "01",
+      "title": "Consultation & Needs Assessment",
+      "description": "We start by thoroughly understanding your trading workflows and specific email processing requirements. This helps us design a solution tailored to your business needs, ensuring a perfect fit from the start."
+    },
+    {
+      "id": "02",
+      "title": "Outlook Email Monitoring",
+      "description": "Our system actively monitors specific Outlook mailboxes, automatically capturing trade-related emails as they arrive. This ensures no vital order, trade instruction, or market update goes unnoticed."
+    },
+     {
+      "id": "03",
+      "title": "Intelligent Data Extraction",
+      "description": "Using advanced technology, we extract crucial trade information—like client orders, pricing details, and trade instructions—directly from the email content and attachments, removing the need for manual data entry."
+    },
+    {
+      "id": "04",
+      "title": "Custom Rules & Email Filtering",
+      "description": "We set up personalized rules and filters based on your business priorities. Whether you need to flag high-priority trades, categorize emails, or sort by client, we ensure emails are automatically handled in line with your needs."
+    },
+    {
+      "id": "05",
+      "title": "Automated Data Integration",
+      "description": "The extracted data is directly integrated into your trading platforms or applications, eliminating human error and ensuring faster, more accurate processing of trade information."
+    },
+    {
+      "id": "06",
+      "title": "Secure & Compliant Processing",
+      "description": "At the core of our process, we prioritize security and compliance. We apply robust encryption and security protocols to protect your sensitive data, ensuring full regulatory compliance at every step."
+    },
+     {
+      "id": "07",
+      "title": "Continuous Monitoring & Support",
+      "description": "Once your system is live, we don’t stop there. Our team continuously monitors the performance of the automation, ensuring it runs smoothly and effectively. No matter the hour, our support team is available to tackle any issues you may face."
+    },
+     {
+      "id": "08",
+      "title": "Optimization & Ongoing Improvements",
+      "description": "We regularly optimize the system to adapt to evolving business needs and market conditions. With ongoing enhancements, we ensure that your email integration and trade processing continues to operate at peak efficiency."
+    }
+  ],
+
+  "Datacleansingservices" :[
+    {
+      "id": "01",
+      "title": "Data Quality Metrics",
+      "description": "We establish clear data quality criteria and measurable metrics to guide the cleansing process, ensuring consistency and reliability."
+    },
+    {
+      "id": "02",
+      "title": "Data Assessment",
+      "description": "Our team evaluates the dataset to identify issues like missing values, outliers, and inconsistencies, gaining a deeper understanding of the data’s quality."
+    },
+     {
+      "id": "03",
+      "title": "Data Cleaning Strategy",
+      "description": "We create a tailored approach to address specific data anomalies, selecting the best methods for each unique issue."
+    },
+    {
+      "id": "04",
+      "title": "Handling Missing Data",
+      "description": "We apply appropriate imputation techniques or decide on the best course of action to manage missing values, considering their impact on analysis."
+    },
+    {
+      "id": "05",
+      "title": "Outlier Treatment",
+      "description": "Our team carefully determines whether to remove, transform, or keep outliers based on their relevance and effect on data quality."
+    },
+    {
+      "id": "06",
+      "title": "Data Standardization",
+      "description": "We standardize the data to ensure it follows a consistent format, aligning with predefined standards and units for uniformity."
+    },
+     {
+      "id": "07",
+      "title": "Data Validation",
+      "description": "We validate the data by cross-referencing it with defined rules and constraints to ensure its accuracy and compliance with quality criteria."
+    }
+  ],
+  "datacleanup" :[
+    {
+      "id": "01",
+      "title": "Assess Your Data Quality Needs",
+      "description": "We begin by understanding the nature of your data and identifying specific quality issues, ensuring a targeted approach for effective data Clean Up."
+    },
+    {
+      "id": "02",
+      "title": "Data Profiling and Evaluation",
+      "description": "Our team evaluates your data to detect errors, inconsistencies, duplicates, and irrelevant information, providing a comprehensive overview of your data quality."
+    },
+     {
+      "id": "03",
+      "title": "Cleanse and Standardize Data",
+      "description": " We apply advanced algorithms and manual checks to remove duplicates, fix errors, and standardize formats, ensuring that your data is consistent and reliable."
+    },
+    {
+      "id": "04",
+      "title": "Remove Irrelevant and Outdated Information",
+      "description": "We carefully eliminate irrelevant or outdated data, focusing on keeping only valuable and up-to-date information, optimizing your datasets for analysis."
+    },
+    {
+      "id": "05",
+      "title": "Enhance and Enrich Data",
+      "description": " We go a step further by enriching your data with supplementary information where necessary, making it completer and more insightful for business decision-making."
+    },
+    {
+      "id": "06",
+      "title": "Deliver Clean and Actionable Data",
+      "description": "The final dataset is provided in a user-friendly format, ready for analysis and designed to offer accurate, actionable insights for your business needs."
+    }
+  ],
+"datavalidationservices" :[
+    {
+      "id": "01",
+      "title": "Requirement Gathering",
+      "description": "We begin by understanding your data sources, quality objectives, business rules, and compliance requirements."
+    },
+    {
+      "id": "02",
+      "title": "Data Profiling",
+      "description": "We analyze your datasets to detect inconsistencies, missing values, duplicates, and anomalies."
+    },
+     {
+      "id": "03",
+      "title": "Validation Rule Setup",
+      "description": "We define custom validation rules based on your specifications—format checks, cross-field checks, referential integrity, and more."
+    },
+    {
+      "id": "04",
+      "title": "Automated & Manual Checks",
+      "description": "Using a blend of automation tools and expert review, we run comprehensive validations across your data."
+    },
+    {
+      "id": "05",
+      "title": "Error Reporting & Feedback Loop",
+      "description": " All issues are logged in detailed reports, with ongoing feedback loops for correction, refinement, and learning."
+    },
+    {
+      "id": "06",
+      "title": "Final Sign-Off & Delivery",
+      "description": "Once validated, we deliver clean, trusted data with documentation and audit trails as required."
+    }
+  ],
+  "datamergingservices" :[
+    {
+      "id": "01",
+      "title": "Requirement Analysis",
+      "description": "We begin by understanding your data sources, formats, and merging objectives. Our team consults with you to define clear rules and identify duplicates, conflicts, or inconsistencies."
+    },
+    {
+      "id": "02",
+      "title": "Data Collection",
+      "description": "We gather data from all relevant sources—whether spreadsheets, databases, CRMs, or cloud platforms. Our team ensures all files are accessible and properly backed up."
+    },
+     {
+      "id": "03",
+      "title": "Pre-Merge Validation",
+      "description": "Our specialists validate the data sets by checking for duplicate entries, missing fields, inconsistent formats, and corrupt records. We also flag any anomalies for client review."
+    },
+    {
+      "id": "04",
+      "title": "Mapping & Normalization",
+      "description": "We align different data formats into a unified structure. This includes standardizing headers, formats (e.g., date, currency), and aligning columns to ensure consistency across all data sets."
+    },
+    {
+      "id": "05",
+      "title": "Data Merging & Consolidation",
+      "description": "Using automated tools and manual checks, we merge the datasets based on predefined keys such as email, ID, or customer name. Conflicting entries are resolved using client-approved rules."
+    },
+    {
+      "id": "06",
+      "title": "Quality Check & De-duplication",
+      "description": "After merging, we run comprehensive quality checks to ensure accuracy, remove duplicates, and validate data integrity."
+    },
+     {
+      "id": "07",
+      "title": "Final Delivery & Reporting",
+      "description": "The merged dataset is delivered in your preferred format (Excel, CSV, database, etc.), along with a detailed report highlighting changes made, duplicates removed, and any insights gained."
+    },
+     {
+      "id": "08",
+      "title": "Ongoing Support",
+      "description": "We offer continuous support for clients who require frequent data updates, recurring merging, or integration with BI or CRM tools."
+    }
+  ],
+  "dataenhancementservices" :[
+    {
+      "id": "01",
+      "title": "Data Assessment",
+      "description": "We evaluate your existing datasets to identify gaps, inconsistencies, duplicates, and opportunities for enrichment."
+    },
+    {
+      "id": "02",
+      "title": "Standardization & Formatting",
+      "description": "Data fields are normalized across formats, geographies, and systems to create uniformity and compatibility."
+    },
+     {
+      "id": "03",
+      "title": "Cleansing & Correction",
+      "description": "We remove errors, correct invalid entries, and eliminate duplicates to ensure clean and reliable data."
+    },
+    {
+      "id": "04",
+      "title": "Data Enrichment",
+      "description": "Your data is enriched using external sources, AI tools, and rule-based enhancements—adding missing values, demographic details, etc."
+    },
+    {
+      "id": "05",
+      "title": "Validation & Quality Checks",
+      "description": " All enhanced data goes through automated and manual checks to ensure accuracy, completeness, and relevance."
+    },
+    {
+      "id": "06",
+      "title": "Delivery & Ongoing Support",
+      "description": "Final datasets are delivered securely in your preferred format, with continuous support for recurring or dynamic data needs."
+    }
+  ],
+  "dataminingservices" :[
+    {
+      "id": "01",
+      "title": "Understanding Your Needs",
+      "description": "We first analyze your business and data mining requirements, creating a customized approach for optimal results."
+    },
+    {
+      "id": "02",
+      "title": "Efficient Data Gathering and Preparation",
+      "description": "Our team identifies and collects data from various sources, followed by cleansing and profiling to ensure high-quality input."
+    },
+     {
+      "id": "03",
+      "title": "Choosing the Right Mining Algorithm",
+      "description": "After selecting the ideal data processing algorithms, we run a small sample before proceeding with the full dataset."
+    },
+    {
+      "id": "04",
+      "title": "Data Analysis and Interpretation",
+      "description": "We develop analytical models and present results through intuitive data visualizations for easy decision-making."
+    }
+  ],
+
+  "webdatamining" :[
+    {
+      "id": "01",
+      "title": "Understanding Your Needs",
+      "description": "We first analyze your business and web data mining requirements, creating a customized approach for optimal results."
+    },
+    {
+      "id": "02",
+      "title": "Efficient Data Gathering and Preparation",
+      "description": "Our team identifies and collects data from various sources, followed by cleansing and profiling to ensure high-quality input."
+    },
+     {
+      "id": "03",
+      "title": "Choosing the Right Mining Algorithm",
+      "description": "After selecting the ideal data processing algorithms, we run a small sample before proceeding with the full dataset."
+    },
+    {
+      "id": "04",
+      "title": "Data Analysis and Interpretation",
+      "description": "We develop analytical models and present results through intuitive data visualizations for easy decision-making."
+    }
+  ],
+  "sqldatamining" :[
+    {
+      "id": "01",
+      "title": "Understanding Your Needs",
+      "description": "We first analyze your business and SQL data mining requirements, creating a customized approach for optimal results."
+    },
+    {
+      "id": "02",
+      "title": "Efficient Data Gathering and Preparation",
+      "description": "Our team identifies and collects data from various sources, followed by cleansing and profiling to ensure high-quality input."
+    },
+     {
+      "id": "03",
+      "title": "Choosing the Right Mining Algorithm",
+      "description": "After selecting the ideal data processing algorithms, we run a small sample before proceeding with the full dataset."
+    },
+    {
+      "id": "04",
+      "title": "Data Analysis and Interpretation",
+      "description": "We develop analytical models and present results through intuitive data visualizations for easy decision-making."
+    }
+  ],
+  "imagedatamining" :[
+    {
+      "id": "01",
+      "title": "Understanding Your Needs",
+      "description": "We first analyze your business and Image data mining requirements, creating a customized approach for optimal results."
+    },
+    {
+      "id": "02",
+      "title": "Efficient Data Gathering and Preparation",
+      "description": "Our team identifies and collects data from various sources, followed by cleansing and profiling to ensure high-quality input."
+    },
+     {
+      "id": "03",
+      "title": "Choosing the Right Mining Algorithm",
+      "description": "After selecting the ideal data processing algorithms, we run a small sample before proceeding with the full dataset."
+    },
+    {
+      "id": "04",
+      "title": "Data Analysis and Interpretation",
+      "description": "We develop analytical models and present results through intuitive data visualizations for easy decision-making."
+    }
+  ],
+
+  "exceldatamining" :[
+    {
+      "id": "01",
+      "title": "Understanding Your Needs",
+      "description": " We first analyze your business and Excel data mining requirements, creating a customized approach for optimal results."
+    },
+    {
+      "id": "02",
+      "title": "Efficient Data Gathering and Preparation",
+      "description": "Our team identifies and collects data from various sources, followed by cleansing and profiling to ensure high-quality input."
+    },
+     {
+      "id": "03",
+      "title": "Choosing the Right Mining Algorithm",
+      "description": "After selecting the ideal data processing algorithms, we run a small sample before proceeding with the full dataset."
+    },
+    {
+      "id": "04",
+      "title": "Data Analysis and Interpretation",
+      "description": "We develop analytical models and present results through intuitive data visualizations for easy decision-making."
+    }
+  ],
+  "worddatamining" :[
+    {
+      "id": "01",
+      "title": "Understanding Your Needs",
+      "description": "We first analyze your business and Word data mining requirements, creating a customized approach for optimal results."
+    },
+    {
+      "id": "02",
+      "title": "Efficient Data Gathering and Preparation",
+      "description": "Our team identifies and collects data from various sources, followed by cleansing and profiling to ensure high-quality input."
+    },
+     {
+      "id": "03",
+      "title": "Choosing the Right Mining Algorithm",
+      "description": "After selecting the ideal data processing algorithms, we run a small sample before proceeding with the full dataset."
+    },
+    {
+      "id": "04",
+      "title": "Data Analysis and Interpretation",
+      "description": "We develop analytical models and present results through intuitive data visualizations for easy decision-making."
+    }
+  ],
+
+   "pdfdatamining" :[
+    {
+      "id": "01",
+      "title": "Understanding Your Needs",
+      "description": "We first analyze your business and PDF data mining requirements, creating a customized approach for optimal results."
+    },
+    {
+      "id": "02",
+      "title": "Efficient Data Gathering and Preparation",
+      "description": "Our team identifies and collects data from various sources, followed by cleansing and profiling to ensure high-quality input."
+    },
+     {
+      "id": "03",
+      "title": "Choosing the Right Mining Algorithm",
+      "description": "After selecting the ideal data processing algorithms, we run a small sample before proceeding with the full dataset."
+    },
+    {
+      "id": "04",
+      "title": "Data Analysis and Interpretation",
+      "description": "We develop analytical models and present results through intuitive data visualizations for easy decision-making."
+    }
+  ],
+  "opensourcedataextraction" :[
+    {
+      "id": "01",
+      "title": "Understanding Your Needs",
+      "description": "We first analyze your business and Open-Source Data Extraction requirements, creating a customized approach for optimal results."
+    },
+    {
+      "id": "02",
+      "title": "Efficient Data Gathering and Preparation",
+      "description": "Our team identifies and collects data from various sources, followed by cleansing and profiling to ensure high-quality input."
+    },
+     {
+      "id": "03",
+      "title": "Choosing the Right Mining Algorithm",
+      "description": "After selecting the ideal data processing algorithms, we run a small sample before proceeding with the full dataset."
+    },
+    {
+      "id": "04",
+      "title": "Data Analysis and Interpretation",
+      "description": "We develop analytical models and present results through intuitive data visualizations for easy decision-making."
+    }
+  ],
+
+  "GraphicDesignServices" :[
+    {
+      "id": "01",
+      "title": "Understand",
+      "description": "We start by deeply understanding your business needs."
+    },
+    {
+      "id": "02",
+      "title": "Assess",
+      "description": "We quickly assess your brand message and key communications."
+    },
+     {
+      "id": "03",
+      "title": "Collaborate",
+      "description": "Our team collaborates to create designs that reflect your brand's value."
+    },
+    {
+      "id": "04",
+      "title": "Present",
+      "description": "We present sample designs for your approval."
+    },
+     {
+      "id": "05",
+      "title": "Deliver",
+      "description": "After approval, we render, enhance, and deliver the final format."
+    }
+  ],
+
+  "logoDesignService" :[
+    {
+      "id": "01",
+      "title": "Understand",
+      "description": "We start by deeply understanding your business needs."
+    },
+    {
+      "id": "02",
+      "title": "Assess",
+      "description": "We quickly assess your brand message and key communications."
+    },
+     {
+      "id": "03",
+      "title": "Collaborate",
+      "description": "Our team collaborates to create designs that reflect your brand's value."
+    },
+    {
+      "id": "04",
+      "title": "Present",
+      "description": "We present sample designs for your approval."
+    },
+     {
+      "id": "05",
+      "title": "Deliver",
+      "description": "After approval, we render, enhance, and deliver the final format."
+    }
+  ],
+
+  
+  "AnimatedlogoDesignService" :[
+    {
+      "id": "01",
+      "title": "Understand",
+      "description": "We start by thoroughly understanding your brand, values, and goals to ensure the animation complements your vision."
+    },
+    {
+      "id": "02",
+      "title": "Design",
+      "description": "Our talented designers create a custom concept for your animated logo, whether in 2D, 3D, or Flash format."
+    },
+     {
+      "id": "03",
+      "title": "Animate",
+      "description": "We bring your logo to life with the animation style that best suits your brand, creating smooth and seamless motion that enhances its impact."
+    },
+    {
+      "id": "04",
+      "title": "Revise",
+      "description": "We offer multiple revisions, refining the animation until it perfectly aligns with your expectations."
+    },
+     {
+      "id": "05",
+      "title": "Deliver",
+      "description": "After approval, we deliver your final animated logo in various formats, ready for use across all digital platforms and beyond."
+    }
+  ],
+  "threeDLogoServices" :[
+    {
+      "id": "01",
+      "title": "Discovery & Understanding:",
+      "description": "We learn about your business and target audience to create a logo that reflects your brand's unique identity."
+    },
+    {
+      "id": "02",
+      "title": "Research & Strategy:",
+      "description": "We conduct research on industry trends and competitors to design a logo that stands out and resonates with your audience."
+    },
+     {
+      "id": "03",
+      "title": "Design Concept Creation:",
+      "description": "We craft multiple 3D logo concepts, exploring different styles and elements to ensure we capture your brand’s essence."
+    },
+    {
+      "id": "04",
+      "title": "Feedback & Revisions:",
+      "description": "We collaborate with you, offering revisions based on your feedback to perfect the final design."
+    },
+     {
+      "id": "05",
+      "title": "Final Delivery:",
+      "description": "We deliver the 3D logo in multiple formats, optimized for both print and digital use, ensuring maximum versatility."
+    }
+  ],
+  "logoCleanup" :[
+    {
+      "id": "01",
+      "title": "Discovery & Understanding:",
+      "description": "We begin by learning about your brand and goals to understand what aspects of the logo need refinement or adjustment."
+    },
+    {
+      "id": "02",
+      "title": "Research & Analysis:",
+      "description": "We review your logo’s current design, identifying areas for improvement while considering industry trends and ensuring the logo remains aligned with your brand identity."
+    },
+     {
+      "id": "03",
+      "title": "Cleanup & Refinement:",
+      "description": "We focus on enhancing your logo by refining details, improving clarity, and modernizing elements, making sure it’s crisp and professional for any application."
+    },
+    {
+      "id": "04",
+      "title": "Feedback & Revisions:",
+      "description": "We collaborate with you to ensure the adjustments meet your vision, offering revisions based on your feedback until the design is perfect."
+    },
+     {
+      "id": "05",
+      "title": "Final Delivery:",
+      "description": "We deliver the finalized logo in multiple formats, optimized for both print and digital use, ensuring it’s ready for any platform and application."
+    }
+  ],
+  "BusinessLogoDesign" :[
+    {
+      "id": "01",
+      "title": "Discovery & Understanding:",
+      "description": "We begin by understanding your business, values, and target audience to create a logo that truly represents your brand."
+    },
+    {
+      "id": "02",
+      "title": "Concept & Strategy:",
+      "description": "We brainstorm and create design concepts based on research and strategic goals, ensuring your logo stands out in your industry."
+    },
+     {
+      "id": "03",
+      "title": "Design Creation:",
+      "description": "We craft your logo with the right combination of colors, typography, and symbols to create a unique visual identity."
+    },
+    {
+      "id": "04",
+      "title": "Feedback & Revisions:",
+      "description": "We work closely with you, refining the design until it aligns perfectly with your vision."
+    },
+     {
+      "id": "05",
+      "title": "Final Delivery:",
+      "description": "After approval, we provide your logo in various file formats, ready for use across all platforms and mediums."
+    }
+  ],
+
+  "BrandLogoDesign" :[
+    {
+      "id": "01",
+      "title": "Discovery & Understanding:",
+      "description": "We begin by understanding your business, values, and target audience to create a logo that speaks to your market."
+    },
+    {
+      "id": "02",
+      "title": "Conceptualization & Research:",
+      "description": "We conduct research on industry trends and design multiple concepts that align with your brand’s message."
+    },
+    {
+      "id": "03",
+      "title": "Feedback & Revisions:",
+      "description": "We collaborate with you throughout the design process, revising the logo based on your feedback and preferences."
+    },
+     {
+      "id": "04",
+      "title": "Finalization & Delivery:",
+      "description": "Once approved, we provide your logo in multiple file formats, ensuring it's ready for use across all platforms."
+    }
+  ],
+
+  "IllustratedLogoDesign" :[
+    {
+      "id": "01",
+      "title": "Discovery & Ideation:",
+      "description": "We begin by understanding your brand and target audience, ensuring the illustrated logo aligns with your business goals and vision."
+    },
+    {
+      "id": "02",
+      "title": "Concept Development:",
+      "description": " Our team develops multiple illustrative logo concepts, creating hand-drawn or vector-based sketches to capture the essence of your brand."
+    },
+    {
+      "id": "03",
+      "title": "Feedback & Refinement:",
+      "description": "We collaborate with you, refining the illustration logos based on your input, ensuring the final design reflects your vision."
+    },
+     {
+      "id": "04",
+      "title": "Final Delivery:",
+      "description": "Once approved, we deliver your brand logo illustrated in multiple formats, ready for use across all platforms and marketing materials."
+    }
+  ],
+
+  "BrandingDesignServices" :[
+    {
+      "id": "01",
+      "title": "Discovery & Strategy:",
+      "description": "We start by understanding your brand’s goals and audience, which informs our approach to your brand strategy services."
+    },
+    {
+      "id": "02",
+      "title": "Concept Development:",
+      "description": "Our team creates several design concepts, tailored to your unique brand, including options for product packaging design, business card designs, and more."
+    },
+    {
+      "id": "03",
+      "title": "Design Refinement:",
+      "description": "Based on your feedback, we refine the designs to ensure they accurately reflect your brand identity."
+    },
+     {
+      "id": "04",
+      "title": "Final Delivery & Implementation:",
+      "description": "Once the design is approved, we deliver all final assets, including flyer designs, brochures, and other branding materials, in formats suitable for both digital and print use."
+    }
+  ],
+    "ProductPackagingDesign" :[
+    {
+      "id": "01",
+      "title": "Discovery & Research:",
+      "description": "We begin by understanding your product, brand, target audience, and market trends. This research forms the foundation of our design process, ensuring that the packaging resonates with your audience and aligns with your brand's vision."
+    },
+    {
+      "id": "02",
+      "title": "Concept Creation:",
+      "description": "Our label designers create initial packaging concepts that blend creativity and functionality. We present several options for your review and feedback, ensuring the design aligns with your brand identity and goals."
+    },
+    {
+      "id": "03",
+      "title": "Design Refinement:",
+      "description": "Based on your feedback, we refine the packaging design, paying attention to every detail, from colors and typography to textures and materials, ensuring a cohesive look."
+    },
+     {
+      "id": "04",
+      "title": "Final Mockups & Production:",
+      "description": " After final approval, we provide packaging mockups and prepare the design files for production. We ensure the packaging is both functional and beautiful, ready to make a lasting impression on your customers."
+    }
+  ],
+  "BrochureDesign" :[
+    {
+      "id": "01",
+      "title": "Consultation & Discovery:",
+      "description": " We begin by understanding your business goals, target audience, and branding requirements. This helps us create a clear vision for your brochure’s design."
+    },
+    {
+      "id": "02",
+      "title": "Concept Creation:",
+      "description": "Our brochure designers create initial concepts based on your vision and business goals. We present you with different layouts, design styles, and color schemes to choose from."
+    },
+    {
+      "id": "03",
+      "title": "Design Refinement:",
+      "description": "After gathering your feedback, we refine the design, ensuring all elements align with your brand identity, message, and aesthetic preferences."
+    },
+     {
+      "id": "04",
+      "title": "Final Delivery & Printing/Online Setup:",
+      "description": "Once you approve the design, we deliver the final files in the required formats for print or digital use. For digital brochures, we ensure that the design is optimized for online viewing and accessibility."
+    }
+  ],
+  "BusinessCardDesign" :[
+    {
+      "id": "01",
+      "title": "Consultation & Discovery:",
+      "description": "We begin by understanding your business, target audience, and branding preferences to ensure that your graphic designer business cards are a true reflection of your identity."
+    },
+    {
+      "id": "02",
+      "title": "Concept Creation:",
+      "description": "Our team creates multiple design concepts based on your brand’s style. Whether you want a classic, minimalist design or a bold, modern approach, we present options for you to choose from."
+    },
+    {
+      "id": "03",
+      "title": "Design Refinement:",
+      "description": "After receiving your feedback, we refine the design and ensure every detail is perfect, from typography and colors to layout and imagery."
+    },
+     {
+      "id": "04",
+      "title": "Final Delivery & Printing:",
+      "description": "Once you approve the final design, we provide your business cards in high-resolution formats ready for printing, ensuring high-quality output for physical and digital versions."
+    }
+  ],
+  "FlyerDesign" :[
+    {
+      "id": "01",
+      "title": "Consultation & Discovery:",
+      "description": "We begin by understanding your objectives and target audience, ensuring the flyer design aligns with your marketing goals and effectively communicates your message."
+    },
+    {
+      "id": "02",
+      "title": "Concept Creation:",
+      "description": "Based on your input, we create several flyer concepts for you to choose from, focusing on layout, color schemes, and overall aesthetics to match your brand."
+    },
+    {
+      "id": "03",
+      "title": "Design Refinement:",
+      "description": "After receiving your feedback, we fine-tune the design, ensuring every detail is perfect. We make sure that the final flyer meets your vision and aligns with your goals."
+    },
+     {
+      "id": "04",
+      "title": "Final Delivery & Printing:",
+      "description": "Once you approve the design, we provide high-quality files in the necessary formats for printing or digital use, ensuring your flyer is ready to be distributed."
+    }
+  ],
+    "MenuDesign" :[
+    {
+      "id": "01",
+      "title": "Consultation & Discovery:",
+      "description": "We start by understanding your restaurant’s concept, branding, and target audience to create a design that is consistent with your identity."
+    },
+    {
+      "id": "02",
+      "title": "Concept Development:",
+      "description": "Our team presents design concepts that combine your restaurant’s atmosphere with functional elements to make your menu both visually appealing and easy to navigate."
+    },
+    {
+      "id": "03",
+      "title": "Design Refinement:",
+      "description": "After gathering your feedback, we refine the design, adjusting the layout, color schemes, and typography to ensure it meets your vision and enhances the dining experience."
+    },
+     {
+      "id": "04",
+      "title": "Final Delivery & Printing:",
+      "description": "Once approved, we deliver the final design in the required formats for both printing and digital use, ensuring high-quality results for every platform."
+    }
+  ],
+   "PrintDesign" :[
+    {
+      "id": "01",
+      "title": "Consultation & Understanding Your Brand:",
+      "description": "We start by understanding your business and your print design goals, ensuring that the final design reflects your brand’s personality and objectives."
+    },
+    {
+      "id": "02",
+      "title": "Concept Development & Design:",
+      "description": "Based on your input, we create initial design concepts, focusing on layouts, color schemes, and typography that match your brand and stand out in the marketplace."
+    },
+    {
+      "id": "03",
+      "title": "Design Refinement & Feedback:",
+      "description": "We refine the design based on your feedback, ensuring it meets your expectations and aligns with your vision before finalizing."
+    },
+     {
+      "id": "04",
+      "title": "Finalization & Print Ready Files:",
+      "description": "Once approved, we prepare and provide the final print designs in the necessary formats, optimized for print to ensure a flawless output."
+    }
+  ],
+  "ArtDesign" :[
+    {
+      "id": "01",
+      "title": "Consultation & Conceptualization:",
+      "description": "We begin by understanding your vision, style preferences, and project goals, ensuring that our designs align with your expectations."
+    },
+    {
+      "id": "02",
+      "title": "Art Concept Creation:",
+      "description": "Our team of artists develops initial custom artwork design concepts, bringing your ideas to life through sketches, color palettes, and design elements."
+    },
+    {
+      "id": "03",
+      "title": "Feedback & Refinement:",
+      "description": "We collaborate with you throughout the design process, refining the artwork to match your exact specifications before finalizing the design."
+    },
+     {
+      "id": "04",
+      "title": "Final Design Delivery:",
+      "description": "Once the design is approved, we provide the final artwork designs in the necessary formats, ready for both digital and print applications."
+    }
+  ],
+  "MagazineDesigns" :[
+    {
+      "id": "01",
+      "title": "Consultation & Planning:",
+      "description": "We begin by understanding your vision, goals, and target audience, ensuring we create a magazine page layout and design that resonates with your readers."
+    },
+    {
+      "id": "02",
+      "title": "Concept & Layout Design:",
+      "description": "Our designers work on initial magazine designs, focusing on the layout and structure to ensure that every page and article is visually appealing and easy to read."
+    },
+    {
+      "id": "03",
+      "title": "Design & Typography Integration:",
+      "description": "We focus on integrating the right typography and visual elements to complement the overall design and maintain a cohesive style throughout your magazine designs."
+    },
+     {
+      "id": "04",
+      "title": "Image Editing & Enhancement:",
+      "description": "We enhance your images with our premium photo editing service, ensuring they align with the layout and enhance the overall aesthetic of your publication."
+    },
+     {
+      "id": "05",
+      "title": "Final Review & Delivery:",
+      "description": "Once you approve the design, we finalize all details and deliver print-ready files for physical publications or digital-ready files for online distribution."
+    }
+  ],
+  "PowerPointDesign" :[
+    {
+      "id": "01",
+      "title": "Consultation & Strategy:",
+      "description": "We start by understanding your presentation goals, audience, and objectives, ensuring that the design aligns with your vision and message."
+    },
+    {
+      "id": "02",
+      "title": "Concept Development:",
+      "description": "Our design team creates initial concepts, focusing on corporate presentation design services or a professional PowerPoint layout that best suits your topic and audience."
+    },
+    {
+      "id": "03",
+      "title": "Slide Design & Content Integration:",
+      "description": "After finalizing the concept, we integrate your content with visual elements like charts, images, and infographics to enhance understanding and keep the presentation engaging."
+    },
+     {
+      "id": "04",
+      "title": "Feedback & Revisions:",
+      "description": "We work closely with you to gather feedback and make any necessary revisions to ensure the presentation design services meet your expectations and needs."
+    },
+     {
+      "id": "05",
+      "title": "Final Delivery:",
+      "description": "Once approved, we deliver the final PowerPoint presentation in multiple formats, ensuring you have a professional, polished deck ready for your presentation."
+    }
+  ],
+  "InDesignService" :[
+    {
+      "id": "01",
+      "title": "Consultation & Requirements Gathering:",
+      "description": "We begin by understanding your needs, whether it's web-to-print integration, workflow automation, or Adobe InDesign to Kindle conversion, ensuring we provide the best solution for your project."
+    },
+    {
+      "id": "02",
+      "title": "Design & Development:",
+      "description": "Our expert team works on creating and customizing the solution, whether developing a web-to-print online designer, integrating Adobe InDesign server, or building custom plugins, to meet your requirements."
+    },
+    {
+      "id": "03",
+      "title": "Testing & Optimization:",
+      "description": "We rigorously test the solution to ensure it functions as intended, optimizing for performance and ease of use."
+    },
+     {
+      "id": "04",
+      "title": "Deployment & Training:",
+      "description": "After successfully developing your solution, we deploy it and offer training to ensure your team can fully leverage the capabilities of the new InDesign system or service."
+    }
+  ],
+  "IllustrationServices" :[
+    {
+      "id": "01",
+      "title": "Consultation & Briefing:",
+      "description": "We start by understanding your requirements, goals, and creative vision."
+    },
+    {
+      "id": "02",
+      "title": "Concept Development:",
+      "description": "Our team develops initial concepts tailored to your brand, incorporating your ideas and feedback."
+    },
+    {
+      "id": "03",
+      "title": "Illustration Creation:",
+      "description": "Once the concept is approved, our illustrators bring it to life with precision and artistry."
+    },
+     {
+      "id": "04",
+      "title": "Review & Revisions:",
+      "description": "We share the draft for your review and refine it based on your feedback."
+    },
+    {
+      "id": "05",
+      "title": "Final Approval:",
+      "description": "After your approval, we prepare the artwork for delivery."
+    },
+    {
+      "id": "06",
+      "title": "Delivery:",
+      "description": "You receive the high-quality final illustrations in your preferred formats, ready for use."
+    }
+  ],
+  "ArtworkServices" :[
+    {
+      "id": "01",
+      "title": "Consultation & Briefing:",
+      "description": "Working closely with you to define objectives, audience, and creative direction."
+    },
+    {
+      "id": "02",
+      "title": "Concept Development:",
+      "description": "Translating your vision into inspired layouts and design concepts."
+    },
+    {
+      "id": "03",
+      "title": "Design Execution:",
+      "description": "Bringing concepts to life with accuracy and refined craftsmanship."
+    },
+     {
+      "id": "04",
+      "title": "Review & Revisions:",
+      "description": "We refine and perfect the design based on your feedback."
+    },
+    {
+      "id": "05",
+      "title": "Final Approval:",
+      "description": "We prepare the artwork for final delivery."
+    },
+    {
+      "id": "06",
+      "title": "Delivery:",
+      "description": "You receive high-quality files in your preferred formats, ready for use."
+    }
+  ],
+  "cards": [
+    {
+      "id": "01",
+      "title": "Consultation & Briefing",
+      "description": "We begin by understanding your requirements, goals, and vision for the project."
+    },
+    {
+      "id": "02",
+      "title": "Design Concept",
+      "description": "Our team develops design concepts tailored to your brand, incorporating your ideas and feedback."
+    },
+    {
+      "id": "03",
+      "title": "Design Execution",
+      "description": "After finalizing the concept, our designers craft the full design, paying attention to every detail."
+    },
+    {
+      "id": "04",
+      "title": "Review & Revisions",
+      "description": "We provide a draft for your review and make any necessary revisions based on your feedback."
+    },
+    {
+      "id": "05",
+      "title": "Final Approval",
+      "description": "Once you're satisfied with the design, we move on to finalize and deliver the project."
+    },
+    {
+      "id": "06",
+      "title": "Delivery",
+      "description": "You’ll receive the high-quality final design in your preferred format, ready for use."
+    }
+  ],
+  "healthcare2": [
+    {
+      "id": "01",
+      "title": "Clinical Review & Imaging Request",
+      "description": "We assess each case individually to ensure clinically appropriate imaging and protocols."
+    },
+    {
+      "id": "02",
+      "title": "Image Acquisition & QA",
+      "description": "Images are captured using certified systems with a focus on precision and diagnostic quality."
+    },
+    {
+      "id": "03",
+      "title": "Expert Radiology Interpretation",
+      "description": "Our radiologists deliver detailed, structured reports backed by subspecialty expertise."
+    },
+    {
+      "id": "04",
+      "title": "Timely Report Delivery",
+      "description": "We provide rapid turnaround for all imaging types, including STAT reads and 24/7 coverage."
+    },
+    {
+      "id": "05",
+      "title": "Quality Assurance & Compliance",
+      "description": "All reports follow ACR, HIPAA, and clinical best practice standards."
+    },
+    {
+      "id": "06",
+      "title": "Consultation & Ongoing Support",
+      "description": "Our team is available for case discussions, second opinions, and continuous support."
+    }
+  ],
+  "software_card" :[
+    {
+      "id": "01",
+      "title": "Discovery & Consultation",
+      "description": "Our process begins by gaining a clear and comprehensive understanding of your business. We take the time to understand your goals, challenges, and market environment."
+    },
+    {
+      "id": "02",
+      "title": "Strategy & Solution Design",
+      "description": "With insights in hand, we craft a strategic plan and design tailored solutions that align with your business vision."
+    },
+     {
+      "id": "03",
+      "title": "Development & Implementation",
+      "description": "This is where your vision becomes reality. We focus on building high-quality, reliable solutions that deliver real-world value."
+    },
+    {
+      "id": "04",
+      "title": "Testing & Quality Assurance",
+      "description": "Our team conducts rigorous testing to ensure your software performs flawlessly and meets the highest quality standards."
+    },
+    {
+      "id": "05",
+      "title": "Deployment & Launch",
+      "description": "With everything tested and approved, we handle a smooth, secure launch—ensuring minimal disruption and maximum impact."
+    },
+    {
+      "id": "06",
+      "title": "Ongoing Maintenance & Support",
+      "description": "The journey doesn’t end at deployment. We provide continuous support to keep your software aligned with your evolving business needs."
+    }
+  ]
+}

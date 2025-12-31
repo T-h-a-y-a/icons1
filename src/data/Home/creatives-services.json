@@ -1,0 +1,46 @@
+{
+  "creatives_services": [
+    {
+      "id": "01",
+      "image": "/assets/graphic-design-services.jpg",
+      "heading": "Graphic Design Services",
+      "alt" : "Professional graphic design services for branding, marketing, and digital media.",
+      "link": "/services/creatives-services/graphic-design-services"
+    },
+    {
+      "id": "02",
+      "image": "/assets/indesign-services.jpg",
+      "heading": "InDesign Services",
+      "alt" : "Adobe InDesign layout and formatting services for print and digital publications.",
+      "link": "/services/creatives-services/indesign-services"
+    },
+    {
+      "id": "03",
+      "image": "/assets/magazine-design-services.jpg",
+      "heading": "Magazine Design Services",
+      "alt" : "Creative magazine design services including layouts, covers, and editorial styling.",
+      "link": "/services/creatives-services/magazine-design-services"
+    },
+    {
+      "id": "04",
+      "image": "/assets/powerpoint-design-services.jpg",
+      "heading": "PowerPoint Design Services",
+      "alt" : "Custom PowerPoint presentation design for impactful business and professional use.",
+      "link": "/services/creatives-services/powerpoint-design-services"
+    },
+    {
+      "id": "05",
+      "image": "/assets/illustration-services.jpg",
+      "heading": "Illustration Services",
+      "alt" : "Hand-drawn and digital illustration services for books, marketing, and creative projects.",
+      "link": "/services/creatives-services/illustration-services"
+    },
+    {
+      "id": "06",
+      "image": "/assets/artwork-services.jpg",
+      "heading": "Artwork Services",
+      "alt" : "Custom artwork services for print, digital, and visual branding needs.",
+      "link": "/services/Creatives-services/artwork-services"
+    }
+  ]
+}

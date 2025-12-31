@@ -1,0 +1,530 @@
+{
+  "healthcare": [
+    {
+      "id": "01",
+      "image": "/assets/dental-imaging-solutions.jpg",
+      "heading": "Dental X-Ray Imaging Services",
+      "alt":"Dental X-ray imaging services for oral health and diagnostic care.",
+      "link": "/services/healthcare/dental-imaging-solutions"
+    },
+    {
+      "id": "02",
+      "image": "/assets/bone-density-scanning.jpg",
+      "heading": "Bone Density Scan Services",
+      "alt":"Bone density scan services to detect osteoporosis and bone health issues.",
+      "link": "/services/healthcare/bone-density-scanning"
+    },
+    {
+      "id": "03",
+      "image": "/assets/medical-imaging-services.jpg",
+      "heading": "Medical Imaging Services",
+      "alt":"Comprehensive medical imaging services for diagnosis and treatment.",
+      "link": "/services/healthcare/medical-imaging-services"
+    },
+    {
+      "id": "04",
+      "image": "/assets/pet-ct-reporting.jpg",
+      "heading": "PET/CT Reporting Services",
+      "alt":"PET/CT reporting services for accurate diagnostic interpretation.",
+      "link": "/services/healthcare/pet-ct-reporting"
+    },
+    {
+      "id": "05",
+      "image": "/assets/ct-interoretation-services.jpg",
+      "heading": "CT Interpretation Services",
+      "alt":"CT interpretation services for precise medical analysis.",
+      "link": "/services/healthcare/ct-interoretation-services"
+    },
+    {
+      "id": "06",
+      "image": "/assets/emergency-radiology-report.jpg",
+      "heading": "Emergency Radiology",
+      "alt":"Emergency radiology services for urgent diagnostic imaging.",
+      "link": "/services/healthcare/emergency-radiology-report"
+    },
+    {
+      "id": "07",
+      "image": "/assets/thoracic-imaging-services.jpg",
+      "heading": "Thoracic Imaging Services",
+      "alt":"Thoracic imaging services for chest, lung, and heart evaluations.",
+      "link": "/services/healthcare/thoracic-imaging-services"
+    }
+  ],
+
+  
+
+  
+
+   "dental_imaging_service": [
+    {
+      "id": "01",
+      "image": "/assets/digital_x-rays.webp",
+      "title": "Digital X-Rays",
+      "alt":"Digital X-ray imaging services for faster and clearer diagnostics.",
+      "description": "Our digital dental X-rays provide instant, high-quality images that help detect cavities, bone loss, and other oral conditions with greater clarity. Unlike traditional film X-rays, our digital imaging system reduces radiation exposure and allows for immediate analysis and storage."
+    },
+    {
+      "id": "02",
+      "image": "/assets/cone_beam_3d_dental_imaging.webp",
+      "title": "Cone Beam 3D Dental Imaging",
+      "alt":"Cone beam 3D dental imaging services for detailed oral structures.",
+      "description": "Unlock advanced diagnostics with Cone Beam 3D imaging, a cutting-edge tool in three-dimensional dental imaging. This dental 3D imaging technology provides a 360-degree view of the teeth, jaws, nerves, and sinus structures—ideal for implant planning, orthodontic evaluation, and endodontic procedures."
+    },
+    {
+      "id": "03",
+      "image": "/assets/intraoral_camera_imaging.webp",
+      "title": "Intraoral Camera Imaging",
+      "alt":"Intraoral camera imaging services for enhanced dental examinations.",
+      "description": "Our intraoral camera technology allows dentists to capture high-resolution, real-time images of a patient's mouth. These images improve patient communication and provide more accurate documentation of dental conditions."
+    }
+  ],
+   "dental_imaging_service_cards": [
+    {
+      "id": "01",
+      "title": "Initial Consultation & Assessment",
+      "description": "We begin with a thorough consultation to understand your dental health needs and determine if imaging is required."
+    },
+    {
+      "id": "02",
+      "title": "Choosing the Right Imaging Technology",
+      "description": "We select the most appropriate imaging technology—digital X-rays, Cone Beam 3D, or intraoral cameras—based on your specific needs."
+    },
+    {
+      "id": "03",
+      "title": "Capture High-Resolution Images",
+      "description": "Our advanced equipment captures detailed images quickly, ensuring minimal discomfort and accurate results."
+    },
+    {
+      "id": "04",
+      "title": "Analysis & Diagnosis",
+      "description": "We analyze your images to detect oral issues like cavities, bone loss, and other abnormalities with high precision."
+    },
+    {
+      "id": "05",
+      "title": "Treatment Planning",
+      "description": "Based on your imaging results, we develop a personalized treatment plan that targets your specific dental needs."
+    },
+    {
+      "id": "06",
+      "title": "Sharing Results with You",
+      "description": "We guide you through your images, explaining the findings in clear detail so you fully understand your condition and the available treatment options."
+    },
+     {
+      "id": "07",
+      "title": "Safe and Comfortable Experience",
+      "description": "Patient safety is paramount, with minimal radiation exposure through advanced, high-resolution imaging technologies."
+    },
+     {
+      "id": "08",
+      "title": "Ongoing Monitoring and Follow-up",
+      "description": "We use follow-up imaging to monitor treatment progress and ensure long-term dental health."
+    }
+  ],
+  "bone_density_scan": [
+    {
+      "id": "01",
+      "image": "/assets/peripheral_dexa_scans.webp",
+      "alt":"Peripheral DEXA scan reporting services for bone health assessment.",
+      "title": "Peripheral DEXA Scans Reporting",
+      "description": "Our peripheral DEXA scans are designed to assess bone density in specific extremities, including the wrist, heel, and forearm. These are ideal for early screening and monitoring of osteoporosis risk, especially in high-risk populations. The reports generated offer quick insights into bone health for timely intervention."
+    },
+    {
+      "id": "02",
+      "image": "/assets/central_dexa_scans_reporting.webp",
+      "title": "Central DEXA Scans Reporting",
+      "alt":"Central DEXA scan reporting for spine and hip bone density evaluation.",
+      "description": "Central DEXA scans deliver comprehensive measurements of bone mineral density in critical areas such as the spine and hips. These scans are considered the gold standard for diagnosing osteoporosis, evaluating fracture risk, and supporting informed treatment decisions. Our expert interpretation ensures accurate results for clinicians and patients alike."
+    }
+  ],
+  "bone_density_scan_cards": [
+    {
+      "id": "01",
+      "title": "Initial Consultation & Risk Assessment",
+      "description": "We begin with a consultation to evaluate your medical history, bone health risk factors, and determine if bone density scanning is needed."
+    },
+    {
+      "id": "02",
+      "title": "Choosing the Right Scan",
+      "description": "Based on your risk profile, we decide whether a Peripheral DEXA (for extremities) or Central DEXA (for spine and hips) scan is most appropriate for your needs."
+    },
+    {
+      "id": "03",
+      "title": "Bone Density Scanning",
+      "description": "The DEXA scan is a quick and non-invasive procedure that measures bone mineral density with minimal radiation exposure."
+    },
+    {
+      "id": "04",
+      "title": "Analysis & Interpretation",
+      "description": "Our experts analyze the scan results to evaluate bone density and assess the risk of conditions like osteoporosis."
+    },
+    {
+      "id": "05",
+      "title": "Comprehensive Reporting",
+      "description": "We provide you with a detailed report, explaining the findings and offering guidance on bone health, risk levels, and potential next steps."
+    },
+    {
+      "id": "06",
+      "title": "Treatment Recommendations",
+      "description": "Based on the results, we collaborate with your healthcare provider to create a personalized treatment or monitoring plan to manage your bone health."
+    },
+     {
+      "id": "07",
+      "title": "Ongoing Monitoring",
+      "description": "We offer follow-up scans as needed to track changes in bone density and ensure timely intervention for maintaining bone health."
+    }
+  ],
+  "pet_ct_scanning": [
+    {
+      "id": "01",
+      "image": "/assets/neuro_petct_reporting_services.webp",
+      "title": "Neuro PET/CT Reporting Services",
+      "alt":"Neuro PET/CT reporting services for brain imaging and diagnosis.",
+      "description": "Our neuro PET/CT reports deliver precise assessments of brain metabolism to support early diagnosis of conditions like Alzheimer’s, epilepsy, and Parkinsonism. They also assist in evaluating brain tumors and metastases using advanced quantification. Validated protocols ensure clarity and confidence in neurological diagnostics."
+    },
+    {
+      "id": "02",
+      "image": "/assets/oncology_petct_reporting_services.webp",
+      "title": "Oncology PET/CT Reporting Services",
+      "alt":"Oncology PET/CT reporting for cancer detection and monitoring.",
+      "description": "We provide oncology PET/CT reports for diagnosis, staging, treatment response, and recurrence detection across various cancers. Whole-body metabolic imaging and PERCIST-based evaluations guide clinical decisions. Reports are structured for rapid interpretation and tumor board readiness."
+    },
+    {
+      "id": "03",
+      "image": "/assets/cardiac_petct_reporting_services.webp",
+      "title": "Cardiac PET/CT Reporting Services",
+      "alt":"Cardiac PET/CT reporting services for heart imaging and evaluation.",
+      "description": "Our cardiac PET/CT reports assess myocardial perfusion, viability, inflammation, and coronary flow reserve. They help detect ischemia, evaluate infection or sarcoidosis, and guide revascularization planning. We combine functional and anatomical data to provide a thorough and comprehensive cardiac assessment."
+    }
+  ],
+  "pet_ct_scanning_cards": [
+    {
+      "id": "01",
+      "title": "Referral & Scan Upload",
+      "description": "Scans are securely uploaded via our HIPAA-compliant portal by hospitals, imaging centers, or specialists."
+    },
+    {
+      "id": "02",
+      "title": "Subspecialty Assignment",
+      "description": "Each case is assigned to a radiologist with domain expertise (neurology, oncology, or cardiology) for accurate interpretation."
+    },
+    {
+      "id": "03",
+      "title": "Image Review & Analysis",
+      "description": "We use advanced software tools for fusion imaging, quantitative analysis, and comparative evaluations for follow-up studies."
+    },
+    {
+      "id": "04",
+      "title": "Detailed Reporting",
+      "description": "You receive structured, clinically actionable reports—clearly highlighting findings, impressions, and relevant recommendations."
+    },
+    {
+      "id": "05",
+      "title": "Rapid Turnaround & Support",
+      "description": "Reports are typically delivered within 12–24 hours, with priority support available for urgent cases."
+    }
+  ],
+  "ct_interpretation": [
+    {
+      "id": "01",
+      "image": "/assets/Head.webp",
+      "title": "Head CT Interpretation",
+      "alt":"Head CT interpretation services for neurological conditions.",
+      "description": "Our head CT reports deliver detailed assessments of cranial structures, detecting conditions such as trauma, stroke, hemorrhage, tumors, and neurodegenerative diseases. Using advanced imaging techniques, we provide clarity on acute and chronic neurological disorders to guide timely intervention."
+    },
+    {
+      "id": "02",
+      "image": "/assets/liver.webp",
+      "title": "Liver CT Interpretation",
+      "alt":"Liver CT interpretation services for hepatic disease evaluation.",
+      "description": "We provide comprehensive liver CT analysis to detect lesions, cirrhosis, fatty liver disease, vascular abnormalities, and tumors. Our precise interpretation supports early diagnosis, staging, and treatment planning for hepatic conditions."
+    },
+    {
+      "id": "03",
+      "image": "/assets/heart.webp",
+      "title": "Heart CT Interpretation",
+      "alt":"Heart CT interpretation services for cardiovascular conditions.",
+      "description": "Our cardiac CT reports evaluate coronary artery disease, congenital anomalies, pericardial disease, and cardiac masses. By combining detailed anatomical imaging with functional insights, we support cardiologists in effective risk stratification and procedural planning."
+    },
+     {
+      "id": "04",
+      "image": "/assets/abdomen.webp",
+      "title": "Abdominal CT Interpretation",
+      "alt":"Abdominal CT interpretation services for digestive system analysis.",
+      "description": "Detailed abdominal CT assessments cover organs including kidneys, pancreas, spleen, bowel, and vascular structures. We identify infections, inflammations, tumors, and trauma-related injuries to support thorough and accurate abdominal health evaluations."
+    },
+     {
+      "id": "05",
+      "image": "/assets/fracture.webp",
+      "title": "Fracture CT Interpretation",
+      "alt":"Fracture CT interpretation services for bone and injury assessment.",
+      "description": "We deliver expert analysis of bone fractures, complex trauma cases, and post-surgical assessments. Our interpretations help orthopedic surgeons understand fracture patterns, displacement, and healing progress to optimize patient outcomes."
+    }
+  ],
+  "ct_interpretation_cards": [
+    {
+      "id": "01",
+      "title": "Scan Submission & Secure Upload",
+      "description": "CT images are securely transmitted via our HIPAA-compliant portal by referring hospitals or clinics."
+    },
+    {
+      "id": "02",
+      "title": "Specialist Radiologist Assignment",
+      "description": "Each case is reviewed by a radiologist specialized in the relevant anatomical area for precise interpretation."
+    },
+    {
+      "id": "03",
+      "title": "Advanced Image Review & Analysis",
+      "description": "Utilizing cutting-edge software, we perform detailed image reconstructions and comparative assessments for follow-ups."
+    },
+    {
+      "id": "04",
+      "title": "Comprehensive Reporting",
+      "description": "Structured reports with clear findings, impressions, and clinical recommendations are delivered to support decision-making."
+    },
+    {
+      "id": "05",
+      "title": "Timely Delivery & Ongoing Support",
+      "description": "Standard turnaround time is 24–48 hours, with accelerated reporting available for urgent needs."
+    }
+  ],
+  "emergency_radiology": [
+    {
+      "id": "01",
+      "image": "/assets/general_radiology_fluoroscopy_interpretation_services.webp",
+      "title": "General Radiology & Fluoroscopy Interpretation",
+      "alt":"General radiology and fluoroscopy interpretation services for diagnostic care.",
+      "description": "We deliver quick and reliable interpretation of plain X-rays and fluoroscopic studies, including chest, abdomen, skeletal surveys, and contrast-enhanced procedures. Ideal for trauma, acute infections, and gastrointestinal evaluations."
+    },
+    {
+      "id": "02",
+      "image": "/assets/ultrasound_interpretation_services.webp",
+      "title": "Ultrasound (Sonography) Interpretation",
+      "alt":"Ultrasound interpretation services for real-time diagnostic imaging.",
+      "description": "Our emergency ultrasound readings assist in evaluating abdominal pain, pelvic emergencies, soft tissue injuries, and organ pathology. Fast, non-invasive imaging interpretations support immediate bedside decisions."
+    },
+    {
+      "id": "03",
+      "image": "/assets/doppler_ultrasonography_interpretation_services.webp",
+      "title": "Doppler Ultrasonography Interpretation",
+      "alt":"Doppler ultrasonography interpretation for blood flow and vascular studies.",
+      "description": "We provide real-time Doppler ultrasound interpretations to assess vascular flow, DVT, arterial blockages, and organ perfusion—critical for rapid vascular diagnoses in emergency settings."
+    },
+     {
+      "id": "04",
+      "image": "/assets/mammography_interpretation_services.webp",
+      "title": "Mammography Interpretation",
+      "alt":"Mammography interpretation services for breast cancer screening.",
+      "description": "Our mammography services offer emergency reads for palpable lumps, trauma, or acute breast symptoms, with diagnostic clarity to distinguish benign from suspicious findings under time-sensitive conditions."
+    },
+     {
+      "id": "05",
+      "image": "/assets/computerized_tomography_interpretation_services.webp",
+      "title": "CT (Computerized Tomography) Interpretation",
+      "alt":"CT interpretation services for cross-sectional diagnostic imaging.",
+      "description": "We interpret a broad spectrum of emergency CT studies—head trauma, stroke, chest pain, abdominal pain, fractures—providing essential insights for triage, surgical planning, and emergency interventions."
+    },
+     {
+      "id": "06",
+      "image": "/assets/magnetic_resonance_imaging_interpretation_services.webp",
+      "title": "MRI (Magnetic Resonance Imaging) Interpretation",
+      "alt":"MRI interpretation services for soft tissue and organ imaging.",
+      "description": "Emergency MRI interpretations include spinal cord compression, brain hemorrhage, joint injuries, and acute musculoskeletal conditions. High-resolution reports support accurate diagnosis in neurologic and orthopedic emergencies."
+    }
+  ],
+  "emergency_radiology_cards": [
+    {
+      "id": "01",
+      "title": "24/7 Case Upload",
+      "description": "Emergency scans are securely uploaded via our HIPAA-compliant platform, available anytime—day or night."
+    },
+    {
+      "id": "02",
+      "title": "Priority Case Assignment",
+      "description": "Urgent cases are immediately routed to on-call emergency radiologists specialized in acute care imaging."
+    },
+    {
+      "id": "03",
+      "title": "Rapid Review & Analysis",
+      "description": "We prioritize emergency imaging studies using AI-assisted tools and expert protocols for fast, high-precision evaluation."
+    },
+    {
+      "id": "04",
+      "title": "Structured, Actionable Reporting",
+      "description": "Clear, concise reports with critical findings, impressions, and urgent recommendations are delivered within tight clinical timelines."
+    },
+    {
+      "id": "05",
+      "title": "Real-Time Support & Escalation",
+      "description": "We offer direct communication with referring clinicians for STAT reporting, consultations, and critical findings escalation."
+    }
+  ],
+   "medical_imaging": [
+    {
+      "id": "01",
+      "image": "/assets/digital_x-rays.webp",
+      "title": "Digital X-Rays",
+      "alt":"Digital X-ray diagnostic services with enhanced imaging quality.",
+      "description": "Fast, clear digital radiographs for detecting fractures, dental issues, chest conditions, and more with reduced radiation exposure."
+    },
+    {
+      "id": "02",
+      "image": "/assets/ultrasound_interpretation_services.webp",
+      "title": "Ultrasound (Sonography)",
+      "alt":"Ultrasound imaging services for non-invasive diagnostic scans.",
+      "description": "Non-invasive imaging to evaluate soft tissues, organs, vascular flow, and fetal development with real-time visualization."
+    },
+    {
+      "id": "03",
+      "image": "/assets/doppler_ultrasonography_interpretation_services.webp",
+      "title": "Doppler Ultrasonography",
+      "alt":"Doppler ultrasound services for vascular and circulatory imaging.",
+      "description": "Specialized ultrasound assessing blood flow and vascular conditions to aid diagnosis of blockages, clots, and circulatory health."
+    },
+     {
+      "id": "04",
+      "image": "/assets/computerized_tomography_interpretation_services.webp",
+      "title": "Computed Tomography (CT)",
+      "alt":"CT scanning services for detailed internal imaging.",
+      "description": "Cross-sectional imaging for detailed views of bones, organs, and soft tissues—ideal for trauma, cancer staging, and complex diagnostics."
+    },
+     {
+      "id": "05",
+      "image": "/assets/magnetic_resonance_imaging_interpretation_services.webp",
+      "title": "Magnetic Resonance Imaging (MRI)",
+      "alt":"MRI scanning services for detailed soft tissue and organ imaging.",
+      "description": "High-resolution imaging of soft tissues, brain, spine, joints, and more—offering detailed contrast without radiation."
+    },
+     {
+      "id": "06",
+      "image": "/assets/cone_beam_3d_dental_imaging.webp",
+      "title": "Cone Beam 3D Imaging",
+      "alt":"Cone beam 3D imaging services for detailed dental and maxillofacial scans.",
+      "description": "Specialized 3D imaging for dental and maxillofacial applications, providing precise anatomical views for surgical planning."
+    },
+      {
+      "id": "07",
+      "image": "/assets/central_dexa_scans_reporting.webp",
+      "title": "DEXA Bone Density Scanning",
+      "alt":"DEXA bone density scanning services for osteoporosis detection.",
+      "description": "Advanced bone health evaluation with low radiation, supporting early detection of osteoporosis and fracture risk assessment."
+    },
+    {
+      "id": "08",
+      "image": "/assets/mammography_interpretation_services.webp",
+      "title": "Mammography",
+      "alt":"Mammography services for breast imaging and cancer detection.",
+      "description": "High-quality breast imaging for screening, diagnosis, and monitoring breast health with detailed tissue visualization."
+    }
+  ],
+  "medical_imaging_cards": [
+    {
+      "id": "01",
+      "title": "Patient Referral & Scheduling",
+      "description": "Patients are referred by physicians or request imaging directly, and appointments are scheduled efficiently to minimize wait times."
+    },
+    {
+      "id": "02",
+      "title": "Pre-Imaging Preparation",
+      "description": "Patients receive instructions tailored to the imaging modality, including fasting, hydration, or removal of metal objects, ensuring optimal image quality."
+    },
+    {
+      "id": "03",
+      "title": "Imaging Procedure",
+      "description": "Using state-of-the-art equipment, trained technologists perform the selected imaging study (X-Ray, Ultrasound, CT, MRI, etc.) with patient comfort and safety prioritized."
+    },
+    {
+      "id": "04",
+      "title": "Image Acquisition & Quality Check",
+      "description": "Images are captured digitally and immediately reviewed for clarity and completeness, allowing for retakes if necessary to ensure diagnostic quality."
+    },
+    {
+      "id": "05",
+      "title": "Radiologist Interpretation",
+      "description": "Expert radiologists analyze the images using advanced software and clinical expertise to generate detailed, accurate reports."
+    },
+    {
+      "id": "06",
+      "title": "Report Delivery",
+      "description": "Clinically actionable reports are delivered promptly to the referring physician and patient, often through secure digital platforms."
+    },
+    {
+      "id": "07",
+      "title": "Follow-Up & Consultation",
+      "description": "Based on results, further imaging, treatment planning, or specialist referrals are coordinated to support comprehensive patient care."
+    }
+  ],
+  "thoracic_imaging": [
+    {
+      "id": "01",
+      "image": "/assets/digital_x-rays.webp",
+      "title": "Chest X-Ray",
+      "alt":"Chest X-ray services for lung and thoracic examinations.",
+      "description": "Quick, low-radiation imaging to evaluate lung infections, tumors, fractures, and other chest abnormalities."
+    },
+    {
+      "id": "02",
+      "image": "/assets/computerized_tomography_interpretation_services.webp",
+      "title": "Computed Tomography (CT) of the Chest",
+      "alt":"CT chest imaging services for lungs, heart, and thoracic conditions.",
+      "description": "High-resolution cross-sectional imaging that offers detailed views of lung parenchyma, mediastinum, pleura, and vascular structures—essential for diagnosing pulmonary embolism, interstitial lung disease, lung cancer, and trauma."
+    },
+    {
+      "id": "03",
+      "image": "/assets/magnetic_resonance_imaging_interpretation_services.webp",
+      "title": "Magnetic Resonance Imaging (MRI) of the Thorax",
+      "alt":"MRI thorax imaging services for cardiovascular and chest diagnostics.",
+      "description": "Advanced soft tissue imaging used for detailed evaluation of cardiac structures, chest wall tumors, vascular anomalies, and mediastinal masses without radiation exposure."
+    },
+     {
+      "id": "04",
+      "image": "/assets/ultrasound_interpretation_services.webp",
+      "title": "Ultrasound (Sonography) of the Thorax",
+      "alt":"Thoracic ultrasound imaging services for lung and chest evaluation.",
+      "description": "Real-time imaging for pleural effusions, chest wall masses, and guidance for thoracentesis or biopsies."
+    },
+     {
+      "id": "05",
+      "image": "/assets/oncology_petct_reporting_services.webp",
+      "title": "PET/CT for Thoracic Oncology",
+      "alt":"PET/CT services for thoracic oncology diagnosis and monitoring.",
+      "description": "Combined metabolic and anatomical imaging for staging and treatment monitoring of lung cancers and other thoracic malignancies."
+    }
+  ],
+  "thoracic_imaging_cards": [
+    {
+      "id": "01",
+      "title": "Referral & Scheduling",
+      "description": "We coordinate quickly with your healthcare provider to schedule your thoracic imaging at a convenient time."
+    },
+    {
+      "id": "02",
+      "title": "Patient Preparation",
+      "description": "Clear instructions are provided to ensure optimal image quality and patient comfort during the scan."
+    },
+    {
+      "id": "03",
+      "title": "Image Acquisition",
+      "description": "Using advanced equipment, we capture high-resolution images of the chest and thoracic structures."
+    },
+    {
+      "id": "04",
+      "title": "Expert Interpretation",
+      "description": "Our specialized thoracic radiologists analyze the images with precision and clinical expertise."
+    },
+    {
+      "id": "05",
+      "title": "Report Generation",
+      "description": "We prepare a detailed, easy-to-understand report highlighting key findings and diagnostic impressions."
+    },
+    {
+      "id": "06",
+      "title": "Report Delivery & Consultation",
+      "description": "The report is securely shared with your referring physician, and we offer consultation support as needed."
+    },
+    {
+      "id": "07",
+      "title": "Follow-up & Monitoring",
+      "description": "As needed, we arrange follow-up imaging and evaluations to keep track of treatment outcomes or changes."
+    }
+  ]
+}

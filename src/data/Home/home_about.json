@@ -1,0 +1,33 @@
+{
+  "title": {
+    "first": "Guardians of the Digital Realm ",
+    "second": " Our Mission and Expertise.",
+    "third": "Empowering Businesses — Our Commitment to Seamless Operations"
+  },
+  "video": "/assets/home_about.webm",
+  "content": "At I-Cons Technologies, we drive operational efficiency by handling customer service, technical support, data management, and back-office tasks—empowering businesses to focus on core growth areas.",
+  "exp": {
+    "nmb": "21+",
+    "since": 2004
+  },
+  "numbers": [
+    {
+      "id": 1,
+      "number": "1000",
+       "plus": "+",
+      "name": "PROJECTS COMPLETED"
+    },
+    {
+      "id": 2,
+      "number": "40",
+       "plus": "+",
+      "name": "Consultant"
+    },
+    {
+      "id": 3,
+      "number": "200",
+      "plus": "+",
+      "name": "Employees"
+    }
+  ]
+}

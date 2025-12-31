@@ -1,0 +1,396 @@
+{
+  "animations": [
+    {
+      "id": "01",
+      "title": "Rotoscoping Services",
+      "description": "At Icons Technologies, we deliver expert rotoscoping to isolate elements, remove backgrounds, and create smooth animations. Perfect for films, commercials, and games, our precise work ensures flawless VFX integration, seamless green screen compositing, and realistic digital enhancements.",
+      "link": "/services/animation-services/rotoscoping-services"
+    },
+     {
+      "id": "02",
+      "title": "3D Animation Services",
+      "description": "At Icons Technologies, we deliver expert 3D animation services—from product modeling and character animation to VR/AR experiences and motion graphics. Our realistic, immersive animations help your brand captivate audiences, showcase products, and tell compelling visual stories.",
+      "link": "/services/animation-services/3d-animation-services"
+    },
+     {
+      "id": "03",
+      "title": "Motion Graphics Design Services",
+      "description": "Elevate your brand with i-Cons Technologies’ expert motion graphics design. From custom animated logos and explainer videos to social media graphics and data visualizations, we create captivating animations that engage your audience and strengthen your brand’s visual storytelling.",
+      "link": "/services/animation-services/motion-grarphic-design-services"
+    },
+     {
+      "id": "04",
+      "title": "Product Animation",
+      "description": "At Icons Technologies, we create engaging 2D & 3D product animations that showcase features and benefits. From demos to briefings and ads, our expert team delivers high-quality visuals that clearly communicate your product’s story and captivate your audience.",
+      "link": "/services/animation-services/product-animation-services"
+    },
+     {
+      "id": "05",
+      "title": "2D Animation Services",
+      "description": "At Icons Technologies, we deliver diverse 2D animation services—from animated ads and explainers to motion graphics, cut-out, frame-by-frame, AR, and whiteboard animations. Our creative team crafts high-quality, engaging visuals tailored to communicate your message effectively and captivate your audience.",
+      "link": "/services/animation-services/2d-animation-services"
+    }
+  ],
+
+  "animations_card": [
+    {
+      "id": "01",
+      "title": "Discovery & Consultation",
+      "description": "We begin by understanding your brand, goals, and target audience to shape a creative direction that aligns with your vision."
+    },
+    {
+      "id": "02",
+      "title": "Scriptwriting & Storyboarding",
+      "description": "We craft a compelling script and detailed storyboard to map out the narrative, scenes, and visual flow of your animation."
+    },
+     {
+      "id": "03",
+      "title": "Design & Style Development",
+      "description": "Our team creates custom visuals—characters, icons, environments—designed to match your brand identity and appeal to your audience."
+     
+    },
+    {
+      "id": "04",
+      "title": "Animation Production",
+      "description": "We bring static visuals to life using professional animation techniques, ensuring smooth motion, pacing, and engaging storytelling."
+    },
+    {
+      "id": "05",
+      "title": "Voiceover & Sound Design",
+      "description": "We integrate voiceovers, sound effects, and music to enhance emotional impact and deliver a polished, immersive experience."
+    },
+    {
+      "id": "06",
+       "title": "Motion Graphics Integration",
+      "description": "Where needed, we incorporate dynamic text, transitions, and visual effects to emphasize key messages and maintain viewer interest."
+    },
+     {
+      "id": "07",
+      "title": "Client Review & Revisions",
+      "description": "You review the animation draft and provide feedback. We revise as needed to ensure the final product meets your expectations."
+    },
+     {
+      "id": "08",
+      "title": "Final Delivery & Ongoing Support",
+      "description": "Your animated video is delivered in all required formats, with options for future edits, updates, or repurposing for new campaigns."
+    }
+  ],
+
+ "rotoscoping": [
+    {
+      "id": "01",
+      "image": "/assets/effects_painting_for_animation.png",
+      "alt" : "Effects Painting For Animation for dynamic video storytelling",
+      "title": "Effects Painting for Animation",
+      "description": "Effects painting is an integral part of our rotoscoping services that allows us to create intricate and visually engaging elements, such as explosions, glowing lights, and magical effects, to enhance your animated scenes. By painting over live-action or animated frames, we can add depth, texture, and realism, ensuring that the effects blend seamlessly with the overall animation. Our effects painting ensures every animated scene stands out with beautiful, eye-catching visual elements."
+    },
+     {
+      "id": "02",
+      "image": "/assets/cloning_touch-ups_for_flawless_animation.png",
+      "alt" : "Cloning Touch Ups For Flawless Animation for dynamic video storytelling",
+      "title": "Cloning & Touch-Ups for Flawless Animation",
+      "description": "Our cloning and touch-ups services are used to enhance and clean up animated sequences. Whether it’s for removing unwanted elements, adding or cloning background details, or refining the animation, we ensure that the final product looks polished and seamless. With rotoscoping, we can selectively adjust animated elements frame-by-frame, ensuring that everything aligns perfectly and remains true to the vision of the project."
+    },
+     {
+      "id": "03",
+      "image": "/assets/stereo_conversion_for_3d_animation.png",
+      "alt" : "Stereo Conversion For 3D Animation services for creative visual projects",
+      "title": "Stereo Conversion for 3D Animation",
+      "description": "For animation projects that need to be converted into 3D or stereo format, we offer stereo conversion services that integrate rotoscoping techniques to ensure that each layer is properly converted into the 3D space. Our stereo workflow includes meticulous frame-by-frame adjustments, ensuring depth and dimensionality are captured correctly for 3D animation, whether for films, commercials, or virtual reality applications."
+    },
+     {
+      "id": "04",
+      "image": "/assets/matte_creation_for_detailed_animation_composition.png",
+      "alt" : "Matte Creation For Detailed Animation Composition for dynamic video storytelling",
+      "title": "Matte Creation for Detailed Animation Composition",
+      "description": "Creating high-quality mattes is a crucial part of our rotoscoping services. Our team generates detailed mattes to isolate specific objects or characters within a scene, allowing us to seamlessly place them within other environments, change backgrounds, or add additional animation. Whether it’s for character isolation or complex scene transitions, our matte creation ensures that the animation flows smoothly and naturally."
+    },
+     {
+      "id": "05",
+      "image": "/assets/stereo_workflow.png",
+      "title": "Stereo Workflow for Enhanced 3D Animation",
+      "alt" : "Stereo Workflow video editing services",
+      "description": "Our stereo workflow focuses on delivering depth and dimension to 3D animations through careful planning and execution. Using rotoscoping techniques, we separate elements into different layers to be rendered in 3D, ensuring proper depth placement and alignment throughout the sequence. This process allows for effective stereo conversion and the creation of compelling 3D visuals that draw the viewer deeper into the animated world."
+    },
+    {
+      "id": "06",
+      "image": "/assets/motion_tracking.png",
+      "title": "Motion Tracking for Animation Integration",
+      "alt" : "Motion Tracking video editing services",
+      "description": "Motion tracking is another critical aspect of our rotoscoping process, especially for integrating 2D animated elements with 3D or live-action footage. By tracking the movement of objects or characters within a scene, we ensure that animated elements move in perfect sync with the environment. This is vital for ensuring consistency and realism in the animation, whether you’re adding visual effects, characters, or other elements to the scene."
+    }
+  ],
+
+  "motion_graphic": [
+    {
+      "id": "01",
+      "image": "/assets/motion_graphics.png",
+      "title": "Engaging Motion Graphics for Websites",
+      "alt" : "Motion Graphics video editing services",
+      "description": "In today’s digital landscape, having eye-catching motion graphics on websites is crucial for engaging visitors and enhancing user experience. Our motion graphics design services include creating smooth, interactive animations that capture attention and encourage users to explore your content. By integrating dynamic visuals into your website, we help you stand out from the competition and create a memorable first impression."
+    },
+     {
+      "id": "02",
+      "image": "/assets/creative_motion_design.png",
+      "alt" : "Creative Motion Design video editing services",
+      "title": "Creative Motion Design Studios",
+      "description": "As one of the leading motion design studios, we specialize in crafting innovative and visually stunning animations. Our team combines technical expertise with creativity to produce motion graphics that not only look beautiful but also serve a strategic purpose. Whether it’s for corporate videos, explainer animations, or marketing materials, our motion design studio ensures your visuals are both functional and aesthetically pleasing."
+    },
+     {
+      "id": "03",
+      "image": "/assets/motion_graphic_animations.png",
+      "alt" : "Motion graphic animations for creative visual storytelling",
+      "title": "Collaborating with Motion Design Companies",
+      "description": "We collaborate with top-tier motion design companies to deliver comprehensive solutions for large-scale projects. By partnering with other industry leaders, we ensure that your project is backed by the expertise of multiple professionals in the field. From concept development to final delivery, our motion graphics design services ensure a seamless process that meets your vision and exceeds expectations."
+    },
+     {
+      "id": "04",
+      "image": "/assets/dynamic_text_motion_graphics.png",
+      "alt" : "Dynamic Text Motion Graphics video editing services",
+      "title": "Dynamic Text Motion Graphics",
+      "description": "Our text motion graphics add a dynamic and engaging element to your content, making words come to life with animation. Whether you're looking to animate titles, logos, or captions, our motion graphics designers ensure that the text is not only visually appealing but also supports your brand's message effectively. We create smooth, stylish, and attention-grabbing text animations that enhance the storytelling experience for your audience."
+    }
+  ],
+
+  "product_animation": [
+    {
+      "id": "01",
+      "image": "/assets/2d_product_demos.png",
+      "alt" : "2D Product Demos for engaging product video presentations",
+      "title": "2D Product Demos",
+      "description": "Our 2D product demos provide a simple yet effective way to demonstrate your product’s functionality, design, and benefits. Through clean and clear animations, we highlight key features, allowing potential customers to grasp the essence of the product quickly. Whether it’s for web, social media, or presentations, our 2D product demo animations ensure your product is presented in an easily digestible, visually appealing format."
+    },
+     {
+      "id": "02",
+      "image": "/assets/3d_product_demos.png",
+      "alt" : "3D Product Demos for engaging product video presentations",
+      "title": "3D Product Demos",
+      "description": "For a more immersive and detailed view of your product, our 3D product demos bring your products to life with high-quality 3D product modeling. Our skilled 3D product designers work closely with you to create realistic, detailed models and animations that highlight every aspect of your product. From textures and materials to lighting and movement, we ensure that your product is represented in stunning 3D detail. This 3D product design approach gives customers an in-depth look, whether it’s for e-commerce sites, virtual stores, or presentations."
+    },
+     {
+      "id": "03",
+      "image": "/assets/product_briefing_animation.png",
+      "alt" : "Product Briefing Animation for engaging product video presentations",
+      "title": "Product Briefing Animation",
+      "description": "Our product briefing animation helps to communicate complex product features and functionalities in an easily understandable format. Using a combination of 3D product rendering and animated demo videos, we break down the key aspects of your product, providing a clear and concise explanation that is both engaging and informative. This is the perfect tool for educating customers or stakeholders about your product's unique selling points."
+    },
+     {
+      "id": "04",
+      "image": "/assets/animation_for_product_advertisement.png",
+      "alt" : "Animation For Product Advertisement for engaging product video presentations",
+      "title": "Animation for Product Advertisement",
+      "description": "Our animation for product advertisements creates dynamic and engaging visuals that attract attention and increase engagement. Whether you need 3D product visualization services or a product explanation video, we work with you to create animations that highlight your product’s benefits and make a lasting impression. Our animated demo videos are tailored to showcase your product in the most compelling way, ensuring it captures the audience’s attention and boosts conversions."
+    }
+  ],
+
+  "twod_animation": [
+    {
+      "id": "01",
+      "image": "/assets/2d_video_animation_services.png",
+      "alt" : "2D video animation services for engaging brand content",
+      "title": "Creative 2D Animation Services",
+      "description": "Our creative 2D animation services bring innovative ideas and storytelling to life. Whether you're aiming for a cartoon animation for Instagram or a professional animated commercial, we create custom animations that match your unique brand voice and visual style. By combining creativity with technical expertise, we ensure that your animation resonates with your audience and effectively communicates your message."
+    },
+     {
+      "id": "02",
+      "image": "/assets/2d_animation_services.png",
+      "alt" : "2D animation services for explainer and marketing videos",
+      "title": "2D Video Animation Services",
+      "description": "Our 2D video animation services focus on creating dynamic, engaging content for a wide range of uses, from animated advertisements to marketing videos. Using a variety of animation techniques, including motion graphic animations and animated explainer videos, we craft compelling visuals that grab attention and simplify complex ideas. Whether you’re looking for a 2D animation outsourcing solution or a fully in-house project, our team is here to make your vision a reality."
+    },
+     {
+      "id": "03",
+      "image": "/assets/motion_graphic_animations.png",
+      "alt" : "Motion graphic animations for digital branding",
+      "title": "Motion Graphic Animations",
+      "description": "Motion graphic animations are perfect for delivering dynamic visuals and complex messages in a visually appealing way. We create animated ads, infographic videos, and even animated commercial content that simplifies your message and highlights key information. Our approach blends design, typography, and animation to create impactful content that speaks to your audience."
+    },
+     {
+      "id": "04",
+      "image": "/assets/animated_explainer_videos.png",
+      "alt" : "Animated explainer videos for business communication",
+      "title": "Animated Explainer Videos",
+      "description": "Simplify your message and connect with your audience through animated explainer videos. These videos break down complex concepts into easy-to-understand, engaging animations. Whether you need a cut-out paper animation, infographic animation, or a 2D video animation service, our team delivers high-quality explainer videos that effectively communicate your product’s features, services, or ideas."
+    },
+    {
+      "id": "05",
+      "image": "/assets/infographic_videos.png",
+      "alt" : "Infographic videos for data-driven visual storytelling",
+      "title": "Infographic Videos",
+      "description": "Our infographic videos transform data, statistics, and key insights into visually dynamic stories. With engaging graphics and animation, we create video infographics that convey information clearly and in an entertaining way. Whether it’s for a corporate presentation or marketing campaign, we ensure that your infographic video captivates your audience."
+    },
+     {
+      "id": "06",
+      "image": "/assets/Cut_out_animation.png",
+      "alt" : "Cut-out animation for unique visual effects",
+      "title": "Cut-out Animation",
+      "description": "Our cut-out animation techniques, including animation paper cut out and cutout animation, add a unique, artistic touch to your project. This technique is perfect for creating a quirky, playful look while maintaining the clarity of your message. Whether you’re looking for cartoon animation frames or a stylized, fun animation style, our cutout animation process ensures the final result is both creative and engaging."
+    },
+     {
+      "id": "07",
+      "image": "/assets/shape_animation.png",
+      "alt" : "Shape animation for dynamic motion graphics",
+      "title": "Shape Animation",
+      "description": "Shape animation offers a modern, abstract way to present your ideas through dynamic movement and transformation of shapes. Whether it’s part of a motion graphic animation or used to illustrate a key concept in an animated explainer video, our shape animation services provide a clean, minimalist aesthetic that adds energy to your content."
+    },
+      {
+      "id": "08",
+      "image": "/assets/frame_by_frame_animation.png",
+      "alt" : "Frame-by-frame animation for detailed storytelling",
+      "title": "Frame-by-frame Animation",
+      "description": "For the highest level of detail and craftsmanship, we offer frame-by-frame animation services. This technique involves drawing each frame individually to create smooth, fluid motion. Whether it’s for cartoon animation frames or a more traditional animation style, our frame-by-frame animation gives your project an authentic, handcrafted look that adds personality and depth."
+    },
+      {
+      "id": "09",
+      "image": "/assets/360_animation.png",
+      "alt" : "360Â° animation for immersive visual experiences",
+      "title": "360 Animation",
+      "description": "For a fully immersive experience, we provide 360 animation services that bring your product or idea to life in a virtual space. Whether it’s for 360 product animation or a virtual reality animation, our team ensures that the 360-degree experience is interactive and engaging for users."
+    },
+      {
+      "id": "10",
+      "image": "/assets/augmented_reality_animation.png",
+      "alt" : "Augmented reality animation for interactive content",
+      "title": "Augmented Reality Animation",
+      "description": "Our augmented reality animation services, including animated AR and cartoon augmented reality, add an extra layer of interactivity and excitement to your project. Using AR animation technology, we create virtual objects and animations that blend seamlessly with the real world, providing your audience with an engaging and immersive experience."
+    },
+      {
+      "id": "11",
+      "image": "/assets/whiteboard_animation.png",
+      "alt" : "Whiteboard animation for educational explainer videos",
+      "title": "Whiteboard Animation",
+      "description": "Whiteboard animation is an effective way to explain concepts and tell stories through simple illustrations and animation. As a leading whiteboard animation company, we specialize in creating whiteboard video services that simplify complex ideas with engaging visuals and a clean, professional look. Whether for corporate training, educational content, or marketing, we bring your ideas to life with effective whiteboard animation solutions."
+    }
+  ],
+
+   "threed_animation": [
+    {
+      "id": "01",
+      "image": "/assets/3d_product_animation.png",
+      "alt" : "3D product animation for showcasing designs",
+      "title": "3D Product Animation",
+      "description": "We create highly detailed 3D product animations that showcase your product’s design, features, and functionality. Using 3D product modeling and 3D product rendering, we bring your product to life, allowing your audience to view it from all angles in high detail. Whether it's for e-commerce, advertising, or presentations, our 3D product animation services give your product a professional, polished look."
+    },
+     {
+      "id": "02",
+      "image": "/assets/3d_character_animation.png",
+      "alt" : "3D character animation for films and games",
+      "title": "3D Character Animation",
+      "description": "Our 3D character animation services bring life to characters with realistic movements and expressions. Whether you're creating an animated commercial, video game character, or an animated explainer video, our team of 3D designers ensures your characters engage and resonate with the audience, providing a more relatable and memorable experience."
+    },
+     {
+      "id": "03",
+      "image": "/assets/3d_visualizations_simulations.png",
+      "alt" : "3D visualizations and simulations for industries",
+      "title": "3D Visualizations and Simulations",
+      "description": "For industries like real estate, architecture, and product design, our 3D visualizations create realistic renderings of your projects. We turn blueprints and concepts into immersive, photo-realistic images and animations that give stakeholders and clients a clear, detailed understanding of the final result. From 3D product visualization services to 360-degree product animations, our 3D animations make your projects stand out."
+    },
+     {
+      "id": "04",
+      "image": "/assets/3d_motion_graphics.png",
+      "alt" : "3D motion graphics for modern digital branding",
+      "title": "3D Motion Graphics",
+      "description": "Our 3D motion graphics take your storytelling to the next level. By combining animated visuals with engaging narrative, we create impactful graphics that captivate audiences. Whether it’s for corporate presentations, advertisements, or social media campaigns, our 3D animation company ensures your motion graphics deliver maximum visual impact and engage your viewers effectively."
+    },
+    {
+      "id": "05",
+      "image": "/assets/3d_animation_for_virtual_reality_and_augmented_reality.png",
+      "alt" : "3D animation for virtual and augmented reality experiences",
+      "title": "3D Animation for Virtual Reality and Augmented Reality",
+      "description": "Our team specializes in creating 3D animations for VR and AR, providing immersive, interactive experiences. Whether it's for marketing, entertainment, or product demos, our virtual reality animation and augmented reality animation services allow you to bring your audience into a fully interactive world that engages their senses and creates a deeper connection with your brand."
+    },
+     {
+      "id": "06",
+      "image": "/assets/3d_animation_for_advertising.png",
+      "alt" : "3D animation for impactful advertising campaigns",
+      "title": "3D Animation for Advertising",
+      "description": "Stand out in the market with 3D animation for advertisements. Whether you’re looking for animated ads for TV, social media, or websites, we create compelling animated commercials that capture attention, deliver your message, and drive results. Our 3D animation advertising services are designed to help your brand make an unforgettable impression."
+    },
+     {
+      "id": "07",
+      "image": "/assets/3d_demo_animation.png",
+      "alt" : "3D demo animation for product presentations",
+      "title": "3D Demo Animation",
+      "description": "A 3D demo animation is a great way to demonstrate a product’s features, services, or systems in a visually engaging and interactive way. By showcasing your product through 3D product modeling and 3D design, we provide your audience with a comprehensive understanding of how your product works, making it an essential tool for marketing, e-commerce, and product demonstrations."
+    }
+  ],
+  "stop_motion_animation": [
+    {
+      "id": "01",
+      "image": "/assets/original_concept_creation.png",
+      "alt" : "Original concept creation for creative animation projects",
+      "title": "Original Concept Creation",
+      "description": "We begin by crafting original concepts that align with your vision and brand. Whether you're looking to tell a quirky story or bring a product to life, our stop motion animation studios work with you to design the perfect concept, ensuring every detail matches your brand identity and goals."
+    },
+     {
+      "id": "02",
+      "image": "/assets/character_design.png",
+      "title": "Character Design",
+      "alt" : "Character design for animation and branding",
+      "description": "Our talented stop motion animators excel in designing memorable and unique characters that convey your message. We focus on creating visually distinct and emotionally resonant characters that help drive your narrative, making sure your stop motion animation connects with your target audience."
+    },
+     {
+      "id": "03",
+      "image": "/assets/storyboarding_scripting.png",
+      "alt" : "Storyboarding and scripting for animated videos",
+      "title": "Storyboarding and Scripting",
+      "description": "Before we start animating, we carefully develop a detailed storyboard and script for your project. This ensures that the flow of your stop motion animation is coherent, engaging, and aligns perfectly with your vision. With our precise planning, your stop motion animation ads or commercial will come together smoothly, with each scene building toward a compelling conclusion."
+    },
+     {
+      "id": "04",
+      "image": "/assets/set_stage_designing.png",
+      "alt" : "Set and stage designing for animation production",
+      "title": "Set and Stage Designing",
+      "description": "The magic of stop motion animation comes from the intricate details. Our team meticulously designs and builds sets that bring your story to life. Whether it's a whimsical world or a realistic setting, we create immersive environments that complement your stop motion animation studios’ style, making every frame as visually captivating as the last."
+    },
+    {
+      "id": "05",
+      "image": "/assets/animated_commercials.png",
+      "alt" : "Animated commercials for brand promotion",
+      "title": "Animated Commercials",
+      "description": "We specialize in creating stop motion animation ads and commercials that catch attention and leave a lasting impression. Whether you're promoting a product, service, or brand, our stop motion studios bring your commercial to life with dynamic animation and storytelling. These ads stand out for their unique artistic style, making them perfect for companies looking to distinguish themselves in a competitive market."
+    }
+  ],
+  "stop_motion_animation_card": [
+    {
+      "id": "01",
+      "title": "Unique Visual Appeal",
+      "description": "Stop motion offers a distinct, handcrafted aesthetic that stands out from traditional digital animation or live-action videos, instantly grabbing viewers' attention."
+    },
+     {
+      "id": "02",
+      "title": "High Engagement Rates",
+      "description": "Due to its tactile and artistic style, stop motion videos often receive higher engagement on social media and digital platforms, making them ideal for campaigns and product showcases."
+    },
+     {
+      "id": "03",
+      "title": "Memorable Storytelling",
+      "description": "The frame-by-frame approach brings a charming, human touch to storytelling, making your message more relatable, emotional, and memorable."
+    },
+     {
+      "id": "04",
+      "title": "Ideal for Product Demonstrations",
+      "description": "Stop motion is excellent for showcasing physical products in a creative and dynamic way, especially for retail, e-commerce, food & beverage, and lifestyle brands."
+    },
+    {
+      "id": "05",
+      "title": "Time-Efficient for Short Formats",
+      "description": "It works exceptionally well for short-form content like ads, reels, teasers, and tutorials — giving maximum visual impact in minimal time."
+    },
+    {
+      "id": "06",
+      "title": "Cost-Effective for Creative Campaigns",
+      "description": "Compared to high-end CGI or 3D animation, stop motion can be more affordable while still delivering visually rich and engaging content."
+    },
+    {
+      "id": "07",
+      "title": "Strong Brand Identity and Consistency",
+      "description": "Stop motion allows for complete control over every frame, making it easy to maintain consistent colors, themes, and brand personality."
+    },
+    {
+      "id": "08",
+      "title": "Versatile Across Platforms",
+      "description": "Whether for Instagram, YouTube, TV commercials, or in-store displays, stop motion adapts easily to various formats and screen sizes."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "image": "/assets/icons.png",
+  "services": [
+    {
+      "id": "01",
+      "title": "Data Management Services",
+      "content": "We offer top-notch data entry and data processing services to help businesses streamline operations. Our data entry outsourcing solutions ensure accuracy and efficiency, allowing you to focus on core activities.",
+      "link": "/services/data-management-services"
+    },
+    {
+      "id": "02",
+      "title": "Digital marketing Services",
+      "content": "We provide comprehensive digital marketing solutions designed to boost your online visibility and drive measurable results. From SEO and social media marketing to PPC and content strategy, our services are tailored to help businesses grow and connect with their target audience effectively.",
+      "link": "/service/digital-marketing-services"
+    },
+    {
+      "id": "03",
+      "title": "Data Analysis Services",
+      "content": "Our data analysis services help businesses transform raw data into actionable insights. Using advanced tools and techniques, we uncover trends, identify opportunities, and support data-driven decision-making to enhance performance and strategic planning.",
+      "link": "/service/data-analysis-services"
+    },
+    {
+      "id": "04",
+      "title": "Software Development Services",
+      "content": "We offer end-to-end software development services tailored to your business needs. From custom applications to enterprise solutions, our team ensures scalable, secure, and high-performance software that drives innovation and efficiency.",
+      "link": "/services/software-development-services"
+    },
+    {
+      "id": "05",
+      "title": "Healthcare Services",
+      "content": "We offer comprehensive medical support services to healthcare organizations, enhancing patient care and operational efficiency.",
+      "link": "/services/healthcare"
+    },
+    {
+      "id": "06",
+      "title": "Creative Services and Graphic Designing Services",
+      "content": "We expert creative services and graphic designing services to help businesses build a strong visual identity.",
+      "link": "/services/creatives-services"
+    },
+    {
+      "id": "07",
+      "title": "Video Editing Services",
+      "content": "We offer professional video editing services to enhance your visual content. Our team handles post-production editing, adding transitions, effects, and sound for a polished final product.",
+      "link": "/service/video-editing-services"
+    },
+    {
+      "id": "08",
+      "title": "3D Product Modelling",
+      "content": "We offer professional 3D product modelling services to enhance your product visualization. Our team handles detailed modelling, texturing, and rendering to deliver accurate and polished 3D assets.",
+      "link": "/services/video-editing-services/animations"
+    }
+  ]
+}
